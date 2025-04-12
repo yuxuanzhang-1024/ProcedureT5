@@ -1,0 +1,696 @@
+O = [N+] ( [O-] ) C 1 = C C = C C 2 = C C = C C = C 2 1 . N O ~ Cl . C C O . C O . [OH-] ~ [K+] >> N C 1 = C C = C ( [N+] ( = O ) [O-] ) C 2 = C C = C C = C 1 2
+O = C C = O . Cl C Cl . C O . C C N ( C C ) C C . O = [Si] = O . N O ~ Cl . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C N . C = O >> C N 1 C = C [N+] ( [O-] ) = C 1
+C 1 = C C = C 2 C C C C C 2 = C 1 . C C 1 = C C = C C = C 1 . O = O >> O O C 1 C C C C 2 = C C = C C = C 2 1
+C C O C ( = O ) C ( C # N ) = C C 1 = C C = C C = C 1 . [C-] # N ~ [Na+] . C C O . Cl >> C O C ( = O ) C ( C # N ) C ( C # N ) C 1 = C C = C C = C 1
+C 1 = C C = C ( S S C 2 = C C = C C = C 2 ) C = C 1 . F [Ag] F . F C ( F ) ( Cl ) C ( F ) ( Cl ) Cl >> F S ( F ) ( F ) C 1 = C C = C C = C 1
+Cl C ( Cl ) Cl . [Na] . C C O >> C C O C ( O C C ) O C C
+O = S ( = O ) ( C 1 = C C = C C = C 1 ) C 1 = C C C C 1 . C = C ( C = C O C ) O [Si] ( C ) ( C ) C . C 1 C C O C 1 . Cl . C C O C C . Cl C Cl . Cl C Cl . C C O C C . C C 1 = C C = C C = C 1 C >> O = C 1 C = C [C@] 2 ( S ( = O ) ( = O ) C 3 = C C = C C = C 3 ) C C C [C@@H] 2 C 1
+O C 1 C C C 2 C ( O ) C C C 1 2 . C C ( C ) = O . C C ( = O ) C ~ O S ( = O ) ( = O ) O ~ O = [Cr] ( = O ) = O >> O = C 1 C C C 2 C ( = O ) C C C 1 2
+N # C C C C Cl . [Na] . N . O = [N+] ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ [Fe+3] . C C O C C >> N # C C 1 C C 1
+C C C O . O = [Cr] ( = O ) ( [O-] ) O [Cr] ( = O ) ( = O ) [O-] ~ [K+] ~ [K+] . O = S ( = O ) ( O ) O . O . C C C O >> C C C = O
+O = C 1 O / C ( = C \ C 2 = C C = C C = C 2 ) C 2 = C C = C C = C 1 2 . [Mg] . Br C 1 = C C = C C = C 1 . C C O C C . C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) O >> O = C 1 C 2 = C C = C C = C 2 C ( C 2 = C C = C C = C 2 ) = C 1 C 1 = C C = C C = C 1
+C C C C O . N C ( N ) = O >> C C C C O C ( N ) = O
+O = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . C C O C ( C ) = O . O = [N+] ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ O ~ [Fe+3] . C C O C C . C C O C C . [Li] . N . [NH4+] ~ [Cl-] >> C C O C ( = O ) C C ( O ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+O = C 1 C C C C C 1 . [OH-] ~ [K+] . C C # N >> N # C C = C 1 C C C C C 1
+C = C C = O . C C O . Cl >> C C O C ( C C Cl ) O C C
+C C # C C . C C O C C ~ F B ( F ) F . O . Cl Cl >> C C 1 = C ( C ) C ( C ) ( Cl ) C 1 ( C ) Cl
+C 1 = C C C C C 1 . O = S ( = O ) ( [O-] ) [O-] ~ [Hg+2] . O = S ( = O ) ( O ) O . O >> O = C C 1 C C C C 1
+O = C ( C 1 = C C = C C = C 1 ) C ( O ) ( O ) C ( = O ) C 1 = C C = C C = C 1 >> O = C ( C ( = O ) C 1 = C C = C C = C 1 ) C ( = O ) C 1 = C C = C C = C 1
+O = C ( O ) C 1 = C C = C O 1 >> C 1 = C O C = C 1
+O = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . Cl . [OH-] ~ [Na+] . [Zn] . C C O >> O C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C 1 = C C = N C = C 1 . C C C C N . [H-] ~ [Na+] . C 1 C C O C 1 . [Li+] ~ [I-] >> C C C C N C 1 = C C = C C = N 1
+O C 1 = C C = C ( O ) C = C 1 . C C ( = O ) O C ( C ) = O . O = S ( = O ) ( O ) O >> C C ( = O ) O C 1 = C C = C ( O C ( C ) = O ) C = C 1
+C = C ( C C ( = O ) O ) C ( = O ) O . Cl P ( Cl ) ( Cl ) ( Cl ) Cl >> C = C ( C C ( = O ) Cl ) C ( = O ) Cl
+C 1 = C C = C ( C C 2 = C C = C C = C 2 ) C = C 1 . O = [N+] ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ O ~ [Fe+3] . [Na] . N . C C C C Br . C C O C C >> C C C C C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+Br C 1 C C C C C 1 . [Mg] . C = C ( Br ) C Br . Cl . C C O C C >> C = C ( Br ) C C 1 C C C C C 1 . [Mg+2] ~ [Br-] ~ [Br-]
+C C O C ( = O ) [C@H] ( C ) O . C O C ( C ) ( C ) C . C 1 C C O C 1 . [N-] = [N+] = N P ( = O ) ( O C 1 = C C = C C = C 1 ) O C 1 = C C = C C = C 1 . C 1 C C C 2 = N C C C N 2 C C 1 >> C C O C ( = O ) [C@@H] ( C ) N = [N+] = [N-]
+C = C Br . [Mg] . C C C C [Sn] ( Cl ) ( Cl ) C C C C . [NH4+] ~ [Cl-] . C 1 C C O C 1 >> C = C [Sn] ( C = C ) ( C C C C ) C C C C
+C [CH-] C ~ [Mg+2] ~ [Cl-] . Cl P ( Cl ) Cl . C C O C C >> C C ( C ) P ( Cl ) C ( C ) C
+O = C C 1 = C C = C C = C 1 Cl . Cl Cl >> O = C ( Cl ) C 1 = C C = C C = C 1 Cl
+N # C C C 1 = C C = C C = C 1 . C C O . O = S ( = O ) ( O ) O . O = [N+] ( [O-] ) O >> N # C C C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1
+I C 1 = C C = C C = C 1 . Cl Cl . Cl C ( Cl ) Cl >> Cl I ( Cl ) C 1 = C C = C C = C 1
+C C 1 = C C = C ( C Cl ) C = C 1 . C = C O C C . C C 1 ( C ) C C C C ( C ) ( C ) N 1 . [Li+] ~ C C 1 ( C ) C C C C ( C ) ( C ) [N-] 1 . C C O C C . [Li+] ~ [CH3-] >> C C O C 1 C C 1 C 1 = C C = C ( C ) C = C 1
+N C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1 . Cl C ( Cl ) ( Cl ) Cl . C C O C ( C ) = O . O = C ( Cl ) Cl >> O = C = N C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1
+C [N+] ( C ) ( C ) C C ( = O ) O ~ [Cl-] . C C 1 = C C = C C = C 1 . C C 1 = C C = C C = C 1 . C 1 = C C = C C = C 1 . O = S ( Cl ) Cl >> C [N+] ( C ) ( C ) C C ( = O ) Cl ~ [Cl-]
+O = C ( / C = N / O ) N C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) O >> O = C 1 N C 2 = C C = C C = C 2 C 1 = O
+O = C ( O ) C ( = O ) O . C O . O = S ( = O ) ( O ) O >> C O C ( = O ) C ( = O ) O C
+C C 1 = C ( N ) C = C C = C 1 [N+] ( = O ) [O-] . C C O C ( O C C ) O C C . C C 1 = C C = C ( S ( = O ) ( = O ) O ) C = C 1 >> C C O C = N C 1 = C ( C ) C ( [N+] ( = O ) [O-] ) = C C = C 1
+N # [N+] C 1 = C C = C ( C 2 = C C = C ( [N+] # N ~ [Cl-] ~ [Cl-] ) C = C 2 ) C = C 1 . [H+] ~ [B-] ( F ) ( F ) ( F ) F >> N # [N+] C 1 = C C = C ( C 2 = C C = C ( [N+] # N ) C = C 2 ~ F [B-] ( F ) ( F ) ( F ) ~ F [B-] ( F ) ( F ) F ) C = C 1 . Cl
+O = C ( O ) C Cl . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . [C-] # N ~ [Na+] >> N # C C C ( = O ) [O-] ~ [Na+]
+C C C C C C C C Br . O = N [O-] ~ [Ag+] . C C O C C >> C C C C C C C C [N+] ( = O ) [O-]
+C = C C N ( C # N ) C C = C . [OH-] ~ [K+] . O = S ( = O ) ( O ) O . [OH-] ~ [Na+] >> C = C C N C C = C
+C C ( C ) O C 1 O C ( = O ) C ( Cl ) = C 1 N = [N+] = [N-] . C 1 = C C C C C 1 . C C 1 = C C = C C = C 1 >> N # C C 1 ( Cl ) C ( = O ) C 2 C C C C C 2 1
+C O C 1 = C C = C C = C 1 C ( = O ) O . C 1 C C O C 1 . Br C C Br . O C 1 = C C = C ( O ) C = C 1 . [Na] . N . C C C C C C C Br . Cl . O >> C C C C C C C C 1 = C C C C C 1 = O
+O = C C 1 = C C = C O 1 . O = Cl ( [O-] ) = O ~ [Na+] . O = [V] ( = O ) O [V] ( = O ) = O . O >> O = C ( O ) C = C C ( = O ) O
+O C 1 = C C = C C = C 1 . O C C ( O ) C Cl . [Na] . C C O >> O C C ( O ) C O C 1 = C C = C C = C 1
+C 1 = C C 2 O C 2 C 1 . C 1 C C O C 1 . C 1 C C O C 1 . C C ( = O ) O . [Pd] ~ C 1 = C C = C C = C 1 P ( C 1 = C C = C C = C 1 ) C 1 = C C = C ( ~ C 2 = C C = C C = C 2 P ( C 2 = C C = C C = C 2 ) C 2 = C C = C ( ~ C 3 = C C = C C = C 3 P ( C 3 = C C = C C = C 3 ) C 3 = C C = C ( ~ C 4 = C C = C C = C 4 P ( C 4 = C C = C C = C 4 ) C 4 = C C = C C = C 4 ) C = C 3 ) C = C 2 ) C = C 1 >> C C ( = O ) O C 1 C = C C ( O ) C 1
+C C C C O C ( = O ) C ( O ) C ( O ) C ( = O ) O C C C C . C C ( = O ) O [Pb] ( O C ( C ) = O ) ( O C ( C ) = O ) O C ( C ) = O . C 1 = C C = C C = C 1 >> C C C C O C ( = O ) C = O
+C S C C O . Cl C ( Cl ) Cl . O = S ( Cl ) Cl >> C S C C Cl
+O C C Cl . O . [C-] # N ~ [Na+] >> N # C C C O
+C = C S C 1 = C C = C C = C 1 . O = C ( O ) [O-] ~ [Na+] . Cl C Cl . O = C ( O O ) C 1 = C C ( Cl ) = C C = C 1 >> C = C S ( = O ) C 1 = C C = C C = C 1
+Br C 1 = C C = C C = C 1 . Cl [Al] ( Cl ) Cl . C C ( = O ) O C ( C ) = O . S = C = S >> C C ( = O ) C 1 = C C = C ( Br ) C = C 1
+C C I . [Na+] ~ [Cl-] . [C-] # N ~ [Ag+] . [C-] # N ~ [K+] . O >> [C-] # [N+] C C
+O = C ( O ) C 1 = C N = C C = C 1 . [OH-] ~ [Na+] . O = S ( Cl ) Cl . C 1 = C C = C C = C 1 . Cl [Al] ( Cl ) Cl >> O = C ( C 1 = C C = C C = C 1 ) C 1 = C N = C C = C 1
+N C 1 = C C = C C = C 1 C ( = O ) O . Cl I . Cl . O >> N C 1 = C ( C ( = O ) O ) C = C ( I ) C = C 1
+C C O C ( = O ) C C ( = O ) O C C . C C C C Br . C C O . [Na] >> C C C C C ( C ( = O ) O C C ) C ( = O ) O C C
+C C 1 ( C ) C 2 C C C 1 ( C S ( = O ) ( = O ) O ) C ( = O ) C 2 . Cl P ( Cl ) ( Cl ) ( Cl ) Cl >> C C 1 ( C ) C 2 C C C 1 ( C S ( = O ) ( = O ) Cl ) C ( = O ) C 2
+N C 1 = C C = C ( Cl ) C = C 1 . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . S = C = S . [NH4+] ~ [OH-] . O = C ( O ) C Cl . O . Cl [Zn] Cl . [OH-] ~ [Na+] >> S = C = N C 1 = C C = C ( Cl ) C = C 1
+C C C C C C C C C C C C C C C C Cl . [Zn] . Cl . C C ( = O ) O >> C C C C C C C C C C C C C C C C
+C C O C ( = O ) C C ( C ) = O . Cl C C 1 C O 1 . [Na] . C C O . C C ( = O ) O >> O = C C ( C C ( = O ) C O ) C ( O ) ( Cl ) C = O
+C C C C ( C ) O . [OH-] ~ [Na+] . O = S ( = O ) ( O ) O >> C C = C C C
+C 1 = C C = C 2 N C = C C 2 = C 1 . O = C ( O ) C O . [OH-] ~ [K+] . O . Cl >> O = C ( O ) C C 1 = C N C 2 = C C = C C = C 1 2
+O = C 1 C 2 = C C = C C = C 2 C ( = O ) C 2 = C C = C C = C 1 2 . [OH-] ~ [Na+] . Cl C ( Cl ) C ( Cl ) Cl . C . O = S ( = O ) ( O ) O . [Cu] . O C C ( O ) C O >> O = C 1 C 2 = C C = C C = C 2 C 2 = C C = C C 3 = C 2 C 1 = C C = C 3
+C C 1 = C ( C ) C = C ( O ) C = C 1 . O = P ( O ) ( O ) [O-] ~ [Na+] . O . O N ( S ( = O ) ( = O ) [O-] ) S ( = O ) ( = O ) [O-] ~ [K+] ~ [K+] . C C O C C >> C C 1 = C C ( N = O ) = C ( N O ) C = C 1 C
+C S C ( = S ) O C 1 C ( C 2 C O C ( C ) ( C ) O 2 ) O C 2 O C ( C ) ( C ) O C 2 1 . C C 1 = C C = C C = C 1 . C C C C C C ~ C C O C ( C ) = O . C C C C [SnH] ( C C C C ) C C C C >> C C 1 ( C ) O C C ( C 2 C C 3 O C ( C ) ( C ) O C 3 O 2 ) O 1
+Cl [C@@H] 1 C = C [C@@H] 1 Cl . C 1 = C C = C C = C 1 . [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [Fe] ~ [Fe] >> [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ C 1 C C = C C = C 1 ~ [Fe]
+O C 1 = C C = C C = C 1 [Hg] Cl . [K+] ~ [I-] . I I . Cl C ( Cl ) Cl >> O C 1 = C C = C C = C 1 I
+O = C 1 O C ( = O ) C 2 = C C = C C = C 1 2 . [NH4+] ~ [NH4+] ~ [O-] S ( = O ) ( = O ) [O-] . [OH-] ~ [Na+] . O O . O = S ( = O ) ( O ) O >> O = C ( O ) C 1 = C C = C C = C 1 C ( = O ) O O
+C 1 = C C = C ( S S C 2 = C C = C C = C 2 ) C = C 1 . [NH4+] ~ [OH-] . Cl C Cl . Br Br . C = C . C 1 C C C 2 = N C C C N 2 C C 1 >> C = C S C 1 = C C = C C = C 1
+N C 1 = C ( Cl ) C = C C = C 1 Cl . C . Cl C Cl . O = C ( O C ( = O ) C ( F ) ( F ) F ) C ( F ) ( F ) F . O O >> O = [N+] ( [O-] ) C 1 = C ( Cl ) C = C C = C 1 Cl
+C C O C ( = O ) C C ( C ( = O ) O C C ) C ( C ( = O ) O C C ) C ( = O ) O C C . C . C C O C C . Cl . O >> O = C ( O ) C C ( C C ( = O ) O ) C ( = O ) O
+C C O C ( N ) = O . N O ~ Cl . [OH-] ~ [Na+] . Cl >> N C ( = O ) N O
+C = O . [NH4+] ~ [Cl-] >> C N ~ Cl . O C = O
+O = C 1 O C C 2 = C C = C C = C 1 2 . O = C 1 [N-] C ( = O ~ [K+] ) C 2 = C C = C C = C 1 2 . C N ( C ) C = O . C C O . C C ( = O ) O . O >> O C ( = O ) C 1 = C ( C N 2 C ( = O ) C 3 = C ( C = C C = C 3 ) C 2 = O ) C = C C = C 1
+[C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [Cr] . [Li+] ~ [CH3-] . C N = C C 1 = C C = C C = C 1 . C C O C C . C [O+] ( C ) C ~ F [B-] ( F ) ( F ) F >> C O C 1 ( C ) C ( = O ) N ( C ) C 1 C 1 = C C = C C = C 1
+C 1 = C C = C 2 C = C C = C C 2 = C 1 . O = [Cr] ( = O ) = O . C C ( = O ) O . O >> O = C 1 C C C ( = O ) C 2 = C C = C C = C 1 2
+C O C ( = O ) C C ( = O ) O C . C C 1 = C C = C ( C ) C = C 1 . [Na] . C O C ( = O ) Cl >> C O C ( = O ) C ( C ( = O ) O C ) C ( = O ) O C
+C C 1 ( C ) O C [C@@H] ( [C@H] 2 O C ( = O ) [C@@H] ( O ) [C@H] 2 O ) O 1 . [OH-] ~ [Na+] . [Na+] ~ [Cl-] . O = I ( = O ) ( [O-] ) = O ~ [Na+] >> C C 1 ( C ) O C [C@@H] ( C = O ) O 1
+O = [N+] ( [O-] ) C 1 = C C ( [N+] ( = O ) [O-] ) = C ( Cl ) C = C 1 . C N ( C ) C = O . C 1 = C C = C C = C 1 . C . [Na+] ~ [I-] >> O = [N+] ( [O-] ) C 1 = C C ( [N+] ( = O ) [O-] ) = C ( I ) C = C 1
+C C O C ( = O ) C 1 = C C = C C = C 1 . [OH-] ~ [K+] . N O ~ Cl >> O = C ( N [O-] ~ [K+] ) C 1 = C C = C C = C 1
+C C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1 . C . Br Br >> O = [N+] ( [O-] ) C 1 = C C = C ( C Br ) C = C 1
+C [C@@] 1 2 C C = C C [C@] 1 ( C ) C 2 ( Br ) Br . [Li+] ~ [CH3-] . C C O C C >> C C 1 2 C C = C C 3 C 1 C 3 2 C
+Br C 1 = C C = C C = C 1 . [Li] . C C 1 = C C = C C = N 1 . Cl C ( Cl ) Cl . C C O C C . O = C = O . Cl . C C O . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] >> C C O C ( = O ) C C 1 = C C = C C = N 1
+Cl C C 1 = C C = C C = C 1 . N C 1 = C C = C C = C 1 . O = C ( O ) [O-] ~ [Na+] >> C 1 = C C = C ( C N C 2 = C C = C C = C 2 ) C = C 1
+O = C 1 O C ( = O ) C 2 = C C = C C = C 1 2 . Cl P ( Cl ) ( Cl ) ( Cl ) Cl >> O = C ( Cl ) C 1 = C C = C C = C 1 C ( = O ) Cl
+O = C ( O ) C C 1 = C C = C C = C 1 . [Na] . O = [N+] ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ O ~ [Fe+3] . [Na] . [NH2-] ~ [Na+] . N . Cl C C 1 = C C = C C = C 1 . C C O C C . Cl >> O = C ( O ) C ( C C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+N # C N = C ( N ) N . O . S >> N C ( = S ) N = C ( N ) N
+C 1 = C S C = C 1 . O = S ( [O-] ) ( = S ) [O-] ~ [Na+] ~ [Na+] . C 1 = C C = C C = C 1 . O = [Hg] . I I >> I C 1 = C C = C S 1
+C C 1 = C C ( = O ) C C C 1 . [NH4+] ~ [Cl-] . [Li] . O . N . C C O C C . C = C C Br >> C = C C C 1 C ( = O ) C C C C 1 C
+C 1 = C C = C 2 C = C 3 C = C C = C C 3 = C C 2 = C 1 . Cl [Cu] Cl . Cl C ( Cl ) ( Cl ) Cl >> Cl C 1 = C 2 C = C C = C C 2 = C C 2 = C C = C C = C 2 1
+C 1 = C C = C 2 C ( = C 1 ) C C 1 = C C = C C = C 1 2 . [Na] . C O >> C C 1 C 2 = C C = C C = C 2 C 2 = C C = C C = C 2 1
+O C 1 = C C = C C 2 = C C = C C = C 1 2 . C 1 = C C = C C = C 1 . C C C C C C C . O = [Al] O [Al] = O ~ [Rh] . C C O . C C ( = O ) O >> O C 1 C C C C 2 C C C C C 1 2
+O C C 1 ( O ) O C C ( O ) C ( O ) C 1 O . C C O . C C O C ( C ) = O . C C [N+] ( C C ) ( C C ) C C ~ [Br-] . O . C = C C 1 = C C = C C = C 1 C = C ~ C = C C 1 = C C = C C = C 1 S ( = O ) ( = O ) O >> O = C C 1 = C C = C ( C O ) O 1
+C C O C ( = O ) N ( [Na] ) Cl . O = [N+] ( [O-] ) [O-] ~ [Ag+] . C 1 = C C = C ( C = C C 2 = C C = C C = C 2 ) C = C 1 . O . C C ( C ) ( C ) O . O = S ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C C # N . O = [Os] ( = O ) ( = O ) = O >> C C O C ( = O ) N C ( C 1 = C C = C C = C 1 ) C ( O ) C 1 = C C = C C = C 1
+C C O C ( = O ) / C = C ( \ C ) N C ( N ) = O . [OH-] ~ [Na+] . C C O . Cl . [OH-] ~ [Na+] >> C C 1 = C C ( = O ) N C ( = O ) N 1
+O = C ( C 1 = C C = C C = C 1 ) C ( O ) C 1 = C C = C C = C 1 . C C ( = O ) O C ( C ) = O . C C ( = O ) O . O = S ( = O ) ( O ) O . C C O >> C C ( = O ) O C ( C ( = O ) C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C N ( C C ( = O ) O ) C ( = N ) N ~ O . Cl [Zn] Cl >> C N 1 C C ( = O ) N = C 1 N ~ C N 1 C C ( = O ) N = C 1 N ~ Cl [Zn] Cl
+O = C ( O ) C Cl . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . [C-] # N ~ [Na+] . [OH-] ~ [Na+] . [Cl-] ~ [Cl-] ~ [Ca+2] >> O = C ( [O-] ) C C ( = O ) [O-] ~ [Ca+2]
+C C ( = O ) C = C ( C ) C . O = C ( O ) C ( = O ) O . N . C C O >> C C ( = O ) C C ( C ) ( C ) N ~ C ( = O ) ( O ~ O ) C ( = O ) O
+N C 1 = C C = C C = C 1 . Cl . O = N [O-] ~ [Na+] >> [Cl-] ~ N # [N+] C 1 = C C = C C = C 1
+O C 1 = C C = C C = C 1 . C C O C ( = O ) C C ( C ) = O . Cl [Al] ( Cl ) Cl . O = [N+] ( [O-] ) C 1 = C C = C C = C 1 >> C C 1 = C C ( = O ) O C 2 = C C = C C = C 1 2
+O = C C 1 = C C = C O 1 . [O-2] ~ [Ag+] ~ [Ag+] . C . [O-2] ~ [Cu+] ~ [Cu+] . [OH-] ~ [Na+] . O = S ( = O ) ( O ) O >> O = C ( O ) C 1 = C C = C O 1
+C C 1 O C ( C ) O C ( C ) O 1 . C C ( = O ) O C ( C ) = O . C C O C ( = O ) C C ( = O ) O C C >> C C = C ( C ( = O ) O C C ) C ( = O ) O C C
+C S ( = O ) ( = O ) O N = C 1 C C C C C 1 . [F-] ~ [Na+] . C C C C C C . C C C [Al] ( C C C ) C C C . Cl C Cl . C C ( C ) C [AlH] C C ( C ) C >> C C C C 1 C C C C C N 1
+N # C C ( C # N ) = C ( C # N ) C # N . S = C = S . S . C 1 = C C = N C = C 1 . C C ( C ) = O >> N # C C 1 = C ( N ) S C ( N ) = C 1 C # N
+O = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . C C ( = O ) O . C C ( C ) O >> O C ( C 1 = C C = C C = C 1 ) ( C 1 = C C = C C = C 1 ) C ( O ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C C ( C ) ( C ) C C ( C ) ( C ) N . C O . O = C ( [O-] ) C N ( C C N ( C C ( = O ) [O-] ) C C ( = O ) [O-] ~ [Na+] ~ [Na+] ~ [Na+] ~ [Na+] ) C C ( = O ) [O-] . O O . O = [W] ( = O ) ( [O-] ~ O ~ O ) [O-] ~ [Na+] ~ [Na+] >> C C ( C ) ( C ) C C ( C ) ( C ) N = O
+C [N+] ( C ) ( C ) C C 1 [CH] [CH] [CH] [CH] 1 ~ [CH] 1 [CH] [CH] [CH] [CH] 1 ~ [Fe] ~ [I-] . C C O C C . [OH-] ~ [Na+] . O >> [Fe+2] ~ O C C 1 = C C = C [CH-] 1 ~ C 1 = C C = C [CH-] 1
+C O C ( = O ) C C C C C ( = O ) O . C 1 = C C = N C = C 1 . C C O C C . C [O-] ~ [Na+] . C O >> C O C ( = O ) C C C C C C C C C ( = O ) O C
+O = C ( O ) C 1 = C C = C C = C 1 O . C C ( C ) = O . C C ( = O ) O . Cl I . O >> O = C ( O ) C 1 = C ( O ) C ( I ) = C C ( I ) = C 1
+C O / C = C / C ( C ) = O . O . C C ( = O ) O . C C O >> C C ( = O ) C 1 = C C ( C ( C ) = O ) = C C ( C ( C ) = O ) = C 1
+C C 1 = C C ( O ) = C ( C ( C ) C ) C = C 1 . C C O . Cl . O = N [O-] ~ [Na+] >> C C 1 = C C ( O ) = C ( C ( C ) C ) C = C 1 N = O
+C C ( C C C O ) C 1 C C C 2 C 3 C C C 4 C C C C C 4 ( C ) C 3 C C C 1 2 C . C C C C C C . C 1 = C C = C C = C 1 . C S ( C ) = O . O = C ( O ) C ( F ) ( F ) F . C 1 = C C = N C = C 1 . C ( = N C 1 C C C C C 1 ) = N C 1 C C C C C 1 >> C C ( C C C = O ) C 1 C C C 2 C 3 C C C 4 C C C C C 4 ( C ) C 3 C C C 1 2 C
+C = C C = O . Cl C Cl . O = C ( / C = C / C = C / C 1 = C C = C C = C 1 ) / C = C / C = C / C 1 = C C = C C = C 1 . C C 1 = C C = C ( S ( = O ) ( = O ) O ~ O ) C = C 1 . Br . O C C C O >> Br C C C 1 O C C C O 1
+O = S ( = O ) ( C 1 = C C = C C = C 1 ) [C@H] 1 C = C C C [C@@H] 1 [Hg] Cl . C C O C C . [OH-] ~ [Na+] >> O = S ( = O ) ( C 1 = C C = C C = C 1 ) C 1 = C C C C = C 1
+O = C 1 [N-] C ( = O ~ [K+] ) C 2 = C C = C C = C 1 2 . C C O . S = C = S . Br C C Br >> O = C 1 N C ( = O ) C 2 = C ( C C Br ) C = C C = C 1 2
+N # C C C # N . Br Br . [K+] ~ [Br-] . O >> N # C C ( Br ) ( C # N ) Br ~ [K+] ~ [Br-]
+C # C . C C C C Br . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . [Na] . N . C # C . [NH4+] ~ [OH-] >> C # C C C C C
+N . [Na] >> [NH2-] ~ [Na+]
+O = C C 1 = C C = C C = C 1 [N+] ( = O ) [O-] . O = C ( O ) C C 1 = C C = C C = C 1 . C C ( = O ) O C ( C ) = O . C C N ( C C ) C C >> O = C ( O ) / C ( = C / C 1 = C C = C C = C 1 [N+] ( = O ) [O-] ) C 1 = C C = C C = C 1
+O = C ( C 1 = C C = C C = C 1 ) C ( O ) C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) O . [OH-] ~ [Na+] . O = Br ( [O-] ) = O ~ [Na+] >> O = C ( O ) C ( O ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C C 1 = C C = C ( S ( = O ) [O-] ~ [Na+] ) C = C 1 . C C 1 = C C = C ( C ) C = C 1 . Cl [Hg] Cl . O >> C C 1 = C C = C ( [Hg] Cl ) C = C 1
+C C ( C ) ( O ) C # N . [NH4+] ~ [NH4+] ~ [O-] C ( = O ) [O-] >> C C 1 ( C ) N C ( = O ) N C 1 = O
+C O C ( = O ) C 1 C C C C C 1 . C N C . C [Al] ( C ) C . Cl . C 1 = C C = C C = C 1 . C C C C C C >> C N ( C ) C ( = O ) C 1 C C C C C 1
+N # C N ~ [Ca] . [OH-] ~ [Na+] . C = C C Br . C C O >> C = C C N ( C # N ) C C = C
+C C O C ( = O ) C = C C ( = O ) O C C . C C O C ( = O ) C C ( = O ) O C C . C C O . [Na] >> C C O C ( = O ) C C ( C ( = O ) O C C ) C ( C ( = O ) O C C ) C ( = O ) O C C
+O = C ( O ) C C ( O ) ( C C ( = O ) O ) C ( = O ) O . Cl . O = S ( = O ) ( O ) O . O >> O = C ( O ) / C = C ( / C C ( = O ) O ) C ( = O ) O
+C C 1 = C ( C ~ [I-] ) C ( C [N+] ( C ) ( C ) C ) = C C = C 1 . [Na] ~ [Hg] . O >> C C 1 = C C = C C ( C ) = C 1 C
+C C C = C ( C ) C . C C O C ( C ) = O . [Na+] ~ [Cl-] . [OH-] ~ [Na+] . C C ( C ) ( C ) O . O = [Os] ( = O ) ( = O ) = O . C C 1 = C C = C ( S ( = O ) ( = O ) [N-] Cl ~ O ~ O ~ O ~ [Na+] ) C = C 1 . [BH4-] ~ [Na+] >> C C C ( N S ( = O ) ( = O ) C 1 = C C = C ( C ) C = C 1 ) C ( C ) ( C ) O
+C C O C ( = O ) C Cl . [NH4+] ~ [OH-] >> N C ( = O ) C Cl . C C O
+C C 1 = C C ( = O ) O C ( C ) = C 1 C ( = O ) O . [Cu] >> C C 1 = C C ( = O ) O C ( C ) = C 1
+O = S ( = O ) ( O ) O . [C-] # N ~ [Na+] . O >> C # N
+C C C ( C ) C ( C ( = O ) [O-] ) C ( = O ) [O-] ~ [K+] ~ [K+] . C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) O >> C C C ( C ) C C ( = O ) O
+C C ( C ) = C ( C ) C . I C ( I ) I . C [O-] ~ [Na+] . Cl C Cl . [OH-] ~ [Na+] >> C C 1 ( C ) C ( I ) C 1 ( C ) C
+C C 1 ( C ) O C [C@H] ( C = O ) O 1 . C C O C C . C O . C O C ( = O ) C = P ( C 1 = C C = C C = C 1 ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 >> C O C ( = O ) C = C [C@H] 1 C O C ( C ) ( C ) O 1
+N # C C ( C # N ) = C ( C # N ) C # N . O C C O . N C ( N ) = O >> N # C C ( C # N ) = C 1 O C C O 1
+O = S ( = O ) ( Cl ) C 1 = C C = C C 2 = C 1 C = C C = C 2 S ( = O ) ( = O ) Cl . O = S ( = O ) ( O ) O . [Zn] ~ [Hg] >> S C 1 = C C = C C 2 = C 1 C = C C = C 2 S
+C / C ( = N / O ) C 1 = C C = C ( Cl ) C = C 1 . C 1 C C O C 1 . C 1 C C O C 1 . C C 1 = C C = C C ( C ) = C 1 . [Li+] ~ C C C [CH2-] . C O C ( = O ) C 1 = C C = C ( O C ) C = C 1 . Cl >> C O C 1 = C C = C ( C 2 = C C ( C 3 = C C = C ( Cl ) C = C 3 ) = N O 2 ) C = C 1
+C = C C ( C ) = O . Cl C Cl . O = C ( / C = C / C = C / C 1 = C C = C C = C 1 ) / C = C / C = C / C 1 = C C = C C = C 1 . C C 1 = C C = C ( S ( = O ) ( = O ) O ~ O ) C = C 1 . Br . C C ( C ) ( C O ) C O . C C O C ( O C C ) O C C >> C C 1 ( C ) C O C ( C ) ( C C Br ) O C 1
+C C ( = O ) N C 1 = C C = C ( N = N C 2 = C C = C ( N C ( C ) = O ) C = C 2 ) C = C 1 . Cl . C O . [OH-] ~ [Na+] >> N C 1 = C C = C ( N = N C 2 = C C = C ( N ) C = C 2 ) C = C 1
+O C 1 C C C C C 1 Cl . O . [OH-] ~ [Na+] >> C 1 C C C 2 O C 2 C 1
+C 1 C C C C C [C@H] 2 O [C@@H] 2 C C C C 1 . O = C ( [O-] ) C ( O ) C ( O ~ [Na+] ~ [Na+] ) C ( = O ) [O-] . [OH-] ~ [Na+] . [Na+] ~ [Cl-] . C 1 C C O C 1 . Cl [W] ( Cl ) ( Cl ) ( Cl ) ( Cl ) Cl . [Li+] ~ C C C [CH2-] >> C 1 = C \ C C C C C C C C C C / 1
+C = C 1 C C ( = O ) O 1 . C C ( = O ) [O-] ~ [Na+] . C C ( C ) ( C ) O >> C C ( = O ) C C ( = O ) O C ( C ) ( C ) C
+O = C 1 C C C C 2 = C C = C C = C 1 2 . C = O . C C O C C . C [NH2+] C 1 = C C = C C = C 1 ~ C ( = O ) ( [O-] ) C ( F ) ( F ) F . C 1 C C O C 1 >> C = C 1 C C C 2 = C C = C C = C 2 C 1 = O
+C C # C C ( = O ) O C C . O = S ( = O ) ( [O-] ~ [Pd] ) [O-] ~ [Ba+2] . C 1 = C C = C 2 N = C C = C C 2 = C 1 . C C O C C . [HH] >> C / C = C \ C ( = O ) O C C
+O = N [O-] ~ [Na+] . O = S = O . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . O . Cl . C C ( C ) = O >> N O ~ Cl
+C C 1 = C C = C ( S ( = O ) ( = O ) O / N = C ( / C ) C 2 = C C = N C = C 2 ) C = C 1 . C C O C C . C C O . [K] . Cl . C C O >> C C O C ( C N ) ( O C C ) C 1 = C C = N C = C 1
+N C 1 = C ( C ( = O ) O ) C = C ( I ) C = C 1 . [OH-] ~ [Na+] . O = N [O-] ~ [Na+] . Cl . C C O . O = S ( = O ) ( [O-] ) [O-] ~ [Cu+2] >> O = C ( O ) C 1 = C C ( I ) = C C = C 1
+C C [O+] ( C C ) C C ~ F [B-] ( F ) ( F ) F . C O C . Cl C Cl >> C [O+] ( C ) C ~ F [B-] ( F ) ( F ) F . C C O C C
+C C C C C C C C C C C ( C ) C ( = O ) O . C 1 = C C = C C = C 1 . Br Br . Br P ( Br ) Br . C C ( C ) ( C ) O . [K] . C C ( C ) ( C ) O >> C = C ( C C C C C C C C C C ) C ( = O ) O C ( C ) ( C ) C
+C C 1 ( C ) C 2 C C 3 O C 3 ( C ) C 1 C 2 . C C N C C . C C C C C C . [Li+] ~ C C C [CH2-] . C C O C C >> C = C 1 [C@@H] ( O ) C [C@H] 2 C [C@@H] 1 C 2 ( C ) C
+N # C C C ( N ) = O . Cl P ( Cl ) ( Cl ) ( Cl ) Cl >> N # C C C # N
+N C 1 = C C = C ( [As] ( = O ) ( O ) O ) C = C 1 . [F-] ~ [Na+] . C C O . N C ( = O ) C Cl . O = C ( O ) [O-] ~ [Na+] . Cl . O . [OH-] ~ [Na+] >> N C ( = O ) C N C 1 = C C = C ( [As] ( = O ) ( O ) [O-] ~ [Na+] ) C = C 1
+O C 1 = C C 2 = C C = C C = C 2 C = C 1 . C C ( = O ) O . Br Br . [Sn] >> O C 1 = C C 2 = C ( C = C 1 ) C = C ( Br ) C = C 2
+O C 1 = C C 2 = C C = C C = C 2 C = C 1 . [Na+] ~ [Cl-] . [OH-] ~ [Na+] . Cl C ( Cl ) Cl . C C O >> O = C C 1 = C ( O ) C = C C 2 = C C = C C = C 2 1
+C C C C C C C C / C = C \ C C C C C C C C ( = O ) O C C C C . [Na+] ~ [Cl-] . [Na] . C C C C O >> C C C C C C C C / C = C \ C C C C C C C C O
+C = C C ( = O ) O C . C C C C O . O C 1 = C C = C ( O ) C = C 1 . C C 1 = C C = C ( S ( = O ) ( = O ) O ) C = C 1 >> C = C C ( = O ) O C C C C
+O N = C ( C C 1 = C C = C C = C 1 ) C C 1 = C C = C C = C 1 . C C O C C . C 1 C C O C 1 . [H-] ~ [H-] ~ [H-] ~ [H-] ~ [Li+] ~ [Al+3] . O >> C 1 = C C = C ( C C 2 N C 2 C 2 = C C = C C = C 2 ) C = C 1
+O C 1 = C C = C C = C 1 . [OH-] ~ [Na+] . C O S ( = O ) ( = O ) O C >> C O C 1 = C C = C C = C 1
+O = C ( O ) C 1 = C C = C C = C 1 N C 1 = C C = C C = C 1 . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . O = S ( = O ) ( O ) O >> O = C 1 C 2 = C C = C C = C 2 N C 2 = C C = C C = C 1 2
+[Mg] . C C Br . C C O C ( = O ) O C C . O . C C O C C . C C O C C . C C O C C . [NH4+] ~ [Cl-] >> C C C ( O ) ( C C ) C C
+C C ( = O ) C 1 = C C = C ( C 2 = C C ( = O ) C = C C 2 = O ) C = C 1 . Cl C ( Cl ) Cl . O = S ( [O-] ) S ( = O ) [O-] ~ [Na+] ~ [Na+] >> C C ( = O ) C 1 = C C = C ( C 2 = C ( O ) C = C C ( O ) = C 2 ) C = C 1
+C C ( C ) ( C ) [Si] ( C ) ( C ) O C [C@@H] 1 C = C C ( = O ) O 1 . O = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . C O >> C C ( C ) ( C ) [SiH2] O C ( C ) ( C ) [C@@H] 1 O C ( = O ) C [C@H] 1 C O
+O C ( C 1 = C C = C C = C 1 ) ( C 1 = C C = C C = C 1 ) C ( O ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . I I . C C ( = O ) O >> O = C ( C 1 = C C = C C = C 1 ) C ( C 1 = C C = C C = C 1 ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C 1 = C C = C ( P ( C 2 = C C = C C = C 2 ) C 2 = C C = C C = C 2 ) C = C 1 . Br Br . O C / C = C / C 1 = C C = C C = C 1 . C C # N >> Br C / C = C / C 1 = C C = C C = C 1
+O = C ( O ) C ( O ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . C C ( = O ) O . P . I I . O . O = S ( O ) [O-] ~ [Na+] >> O = C ( O ) C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C # C C . C [CH2-] ~ [Mg+2] ~ [Br-] . C 1 C C O C 1 >> C C # [C-] ~ [Mg+2] ~ [Br-]
+C C 1 ( C ) O [C@H] 2 O [C@H] ( [C@H] 3 C O C ( C ) ( C ) O 3 ) [C@H] ( O ) [C@H] 2 O 1 . C 1 = C N C = N 1 . C 1 C C O C 1 . C C ( = O ) O . [H-] ~ [Na+] . S = C = S . C I >> C S C ( = S ) O C 1 C ( C 2 C O C ( C ) ( C ) O 2 ) O C 2 O C ( C ) ( C ) O C 2 1
+O = [N+] ( [O-] ) C 1 = C C ( [N+] ( = O ) [O-] ) = C C ( [N+] ( = O ) [O-] ) = C 1 . [Na] . C O >> C O C 1 = C C ( [N+] ( = O ) [O-] ) = C C ( [N+] ( = O ) [O-] ) = C 1
+O C 1 = C C = C C = C 1 . C O . [O-2] ~ [O-2] ~ [O-2] ~ [Al+3] ~ [Al+3] >> C C 1 = C ( C ) C ( C ) = C ( C ) C ( C ) = C 1 C
+C 1 = C C C C C 1 . Br Br . C C O . Cl C ( Cl ) ( Cl ) Cl >> Br C 1 C C C C C 1 Br
+S . F C ( F ) = C ( F ) C ( F ) ( F ) F . [F-] ~ [K+] . C N ( C ) C = O >> F C ( F ) ( F ) C 1 ( C ( F ) ( F ) F ) S C ( C ( F ) ( F ) F ) ( C ( F ) ( F ) F ) S 1
+Cl ~ N C 1 = C C = C C = C 1 . [OH-] ~ [Na+] . C = C C # N . C C N C C >> N # C C C N C 1 = C C = C C = C 1
+N C 1 = C C = C C = C 1 . O = N [O-] ~ [Na+] . Cl >> [Cl-] ~ N # [N+] C 1 = C C = C C = C 1
+O = C ( O ) C 1 = C C = C C = C 1 N = N Cl . O = S ( = O ) ( [O-] ) [O-] ~ [Cu+] ~ [Cu+] >> O = C ( O ) C 1 = C C = C C = C 1 C 1 = C C = C C = C 1 C ( = O ) O
+O C C 1 C C 1 . [OH-] ~ [Na+] . O = C ( O ) [O-] ~ [Na+] . [Na+] ~ [Cl-] . Cl . O >> O C 1 C C C 1
+O = S ( = O ) ( [O-] ) [O-] ~ [Cu+2] . [NH3+] O ~ [NH3+] O ~ [O-] S ( = O ) ( = O ) [O-] . [OH-] ~ [Na+] . [NH4+] ~ [OH-] >> O = S ( = O ) ( [O-] ) [O-] ~ [Cu+] ~ [Cu+]
+C C ( C ) C C C ( = O ) Cl . [Na+] ~ [Cl-] . O C 1 = C C = C ( O ) C = C 1 . O C 1 = C C = C ( O ) C = C 1 . C # C . Cl [Al] ( Cl ) Cl . Cl C ( Cl ) ( Cl ) Cl >> C C ( C ) C C C ( = O ) C = C Cl
+C C 1 ( C ) C 2 C C C 1 ( C S ( = O ) ( = O ) Cl ) C ( = O ) C 2 . O = S ( [O-] ) [O-] ~ [Na+] ~ [Na+] . O = S ( [O-] ) [O-] ~ [Na+] ~ [Na+] . O = [Mn] ( = O ) ( [O-] ) = O ~ [K+] . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . O >> C C 1 ( C ) C 2 C C C 1 ( C ( = O ) O ) C ( = O ) C 2
+S = P 1 2 S P 3 ( = S ) S P ( = S ) ( S 1 ) S P ( = S ) ( S 2 ) S 3 . C O C 1 = C C = C C = C 1 >> C O C 1 = C C = C ( P 2 ( = S ) S P ( = S ) ( C 3 = C C = C ( O C ) C = C 3 ) S 2 ) C = C 1
+O = C 1 C C C C C 1 . N N C 1 = C C = C C = C 1 . C . C O . C C ( = O ) O >> C 1 = C C = C 2 C ( = C 1 ) N C 1 = C 2 C C C C 1
+C 1 = C C = C C = C 1 . Cl [Al] ( Cl ) Cl . Cl C ( Cl ) ( Cl ) Cl . O >> O = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+O = [N+] ( [O-] ) C 1 = C C = C C = C 1 O . C C C C Br . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] . C C ( C ) = O >> C C C C O C 1 = C C = C C = C 1 [N+] ( = O ) [O-]
+C 1 = C C = C 2 C = C 3 C = C C = C C 3 = C C 2 = C 1 . Cl C ( Cl ) ( Cl ) Cl . Br Br >> Br C 1 = C 2 C = C C = C C 2 = C ( Br ) C 2 = C C = C C = C 2 1
+O = C 1 C C C ( = O ) O 1 . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C 1 = C C = C C = C 1 . Cl [Al] ( Cl ) Cl >> O = C ( O ) C C C ( = O ) C 1 = C C = C C = C 1
+C C ( = O ) N C 1 = C C = C ( C ) C = C 1 . O = S ( O ) [O-] ~ [Na+] . Br Br >> [H] N ( C ( C ) = O ) C 1 = C ( Br ) C = C ( C ) C = C 1
+O = C ( C ( F ) ( F ) F ) C ( F ) ( F ) F . C 1 = C C = N C = C 1 . N . O = P ( Cl ) ( Cl ) Cl >> N = C ( C ( F ) ( F ) F ) C ( F ) ( F ) F
+O = C 1 C C ( = O ) N C ( = O ) N 1 . O = [N+] ( [O-] ) O >> O = C 1 N C ( = O ) C ( [N+] ( = O ) [O-] ) C ( = O ) N 1
+C # C C . C C C C C C . [Li+] ~ C C C [CH2-] . C C O C C . C C O C ( = O ) Cl >> C C # C C ( = O ) O C C
+O = C ( O ~ [N+] ( = O ) ( [O-] ) O ) C 1 = C N = C C = C 1 . O = P ( [O-] ) ( [O-] ~ [Na+] ~ [Na+] ) O ~ O ~ O ~ O ~ O ~ O ~ O ~ O ~ O ~ O ~ O ~ O ~ O >> O = C ( O ) C 1 = C N = C C = C 1
+C C ( C ) [C@H] ( N ) C ( = O ) O . C 1 C C O C 1 . [OH-] ~ [Na+] . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] . C C O C C ~ F B ( F ) F . B ~ C S C >> C C ( C ) [C@H] ( N ) C O
+C C 1 = C ( O ) C ( C ( = O ) O ) = C C = C 1 . [Na+] ~ [Na+] ~ [SH-] . [OH-] ~ [K+] . O = [Pb] = O . O . Cl >> O = C ( O ) C 1 = C C = C C ( C ( = O ) O ) = C 1 O
+C C O C ( = O ) [C-] ( C ( O C C ) = O ~ [Na+] ) N 1 C ( = O ) C 2 = C C = C C = C 2 C 1 = O . C S C C Cl >> C C O C ( = O ) C ( C C S C ) ( C ( = O ) O C C ) N 1 C ( = O ) C 2 = C C = C C = C 2 C 1 = O
+[OH-] ~ [K+] . S . O = C ( Cl ) C 1 = C C = C C = C 1 . C C O . S = C ( [O-] ~ [K+] ) C 1 = C C = C C = C 1 . N # N . Cl . O >> O = C ( S ) C 1 = C C = C C = C 1
+C C C C C C C C C C O . C 1 = C C = N C = C 1 . Cl C Cl . O = [Cr] ( = O ) = O >> C C C C C C C C C C = O
+C C O C ( O C C ) O C C . C C ( = O ) O . N >> C C ( = O ) O ~ C ( = N ) N
+C = C C ( = O ) O C . O C 1 = C C = C ( O ) C = C 1 . O = S ( = O ) ( [O-] ) [O-] ~ [Na+] ~ [Na+] . Br . C C O C C >> C O C ( = O ) C C Br
+C O C 1 = C ( O C ) C = C ( C = O ) C = C 1 . [OH-] ~ [Na+] . O = C = O . C C O . O . N O ~ Cl >> C O C 1 = C ( O C ) C = C ( / C = N / O ) C = C 1
+C C 1 = C C ( C ) = C ( C ) C = C 1 C . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C C O . Cl C ( Cl ) Cl . O = S ( = O ) ( O ) O . O = [N+] ( [O-] ) O >> C C 1 = C ( C ) C ( [N+] ( = O ) [O-] ) = C ( C ) C ( C ) = C 1 [N+] ( = O ) [O-]
+C C O C ( = O ) C P ( = O ) ( O C C ) O C C . C = O . O = P ( O ) ( O ) O . C C O C C . O ~ [Na+] ~ [Cl-] . O . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] >> C = C ( C O ) C ( = O ) O C C
+C O C ( = O ) C C ( C ) = O . C [Si] ( C ) ( C ) C 1 = C C = C C = C 1 O S ( = O ) ( = O ) C ( F ) ( F ) F . [Na+] ~ [Cl-] . [F-] ~ [Cs+] . C C # N >> C O C ( = O ) C C 1 = C C = C C = C 1 C ( C ) = O
+C [Si] ( C ) ( C ) O C 1 = C ( O [Si] ( C ) ( C ) C ) C C 1 . Br Br . C C C C C . C C C C C >> O = C 1 C C C 1 = O . C [Si] ( C ) ( C ) Br
+C O C 1 = C C 2 = C C = C C = C 2 C = C 1 . Cl C ( Cl ) Cl . O = [N+] ( [O-] ) C 1 = C C = C C = C 1 . Cl [Al] ( Cl ) Cl . C C ( = O ) Cl >> C O C 1 = C C 2 = C ( C = C 1 ) C = C ( C ( C ) = O ) C = C 2
+Br C C O C 1 = C C = C C = C 1 . C C O C C . C C O C C . O C 1 = C C = C C = C 1 . C 1 = C C = C ( P ( C 2 = C C = C C = C 2 ) C 2 = C C = C C = C 2 ) C = C 1 >> [Br-] ~ C 1 = C C = C C = C 1 [P+] ( C C O C 1 = C C = C C = C 1 ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+Cl C C 1 C O 1 . O = S ( = O ) ( [O-] ~ [Mg+2] ) [O-] ~ O ~ O ~ O ~ O ~ O ~ O ~ O . [C-] # N ~ [K+] . O >> N # C C C ( O ) C C # N
+S C 1 = C C = C C = C 1 . C C C C C . C C N ( C C ) C C . O = S ( = O ) ( Cl ) Cl >> Cl S C 1 = C C = C C = C 1
+[HH] . Br Br >> Br
+Cl C 1 C = C C C 1 . [Na] . C C O . C C O C ( = O ) C C ( = O ) O C C >> C C O C ( = O ) C ( C ( = O ) O C C ) C 1 C = C C C 1
+C O C ( C C ( C ) = O ) O C . N C = O . [OH-] ~ [Na+] . [NH4+] ~ [Cl-] . O >> C C 1 = N C = N C = C 1
+C C 1 = C C C C C 1 . [BH4-] ~ [Na+] . C C ( = O ) [O-] ~ C C ( = O ) [O-] ~ [Hg+2] . O . C C O C C . [OH-] ~ [Na+] >> C C 1 ( O ) C C C C C 1
+O = C ( O ) C 1 = C C = C C = C 1 . [NH4+] ~ [Cl-] . [Na] . N . C C O . Cl >> O = C ( O ) C 1 C = C C C = C 1
+C C C C C C C C C C C ( C ) ( Br ) C ( = O ) Br . O = S ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C O >> C C C C C C C C C C C ( C ) ( Br ) C ( = O ) O C
+O = C 1 C C C C C 1 . C 1 = C C = C C = C 1 . [H-] ~ [Na+] . C 1 C C O C 1 . C C O P ( = O ) ( C = C N C 1 C C C C C 1 ) O C C . O = C ( O ) C ( = O ) O ~ O ~ O >> O = C C = C 1 C C C C C 1
+O C ( C Cl ) C Cl . [OH-] ~ [Na+] . C C O C C >> Cl C C 1 C O 1
+C # C C ( = O ) O C ( C ) ( C ) C . O = C 1 C C C ( = O ) N 1 Br . C C ( C ) = O . O = [N+] ( [O-] ) [O-] ~ [Ag+] >> C C ( C ) ( C ) O C ( = O ) C # C Br
+C S C 1 = C C = C C = C 1 . O = I ( = O ) ( [O-] ) = O ~ [Na+] . O >> C S ( = O ) C 1 = C C = C C = C 1
+C C O C 1 = C C = C ( N ~ Cl ) C = C 1 . N C ( N ) = O . C C ( = O ) O . Cl . O >> C C O C 1 = C C = C ( N C ( N ) = O ) C = C 1
+O = C 1 C = C C 2 ( C C C C C C C 2 ) C C 1 . C C O C C . N # C C 1 = C ( C # N ) C ( = O ) C ( Cl ) = C ( Cl ) C 1 = O . C 1 C O C C O 1 >> O = C 1 C = C C 2 ( C = C 1 ) C C C C C C C 2
+C C O C 1 = C C ( = O ) C C C 1 . [H-] ~ [H-] ~ [H-] ~ [H-] ~ [Li+] ~ [Al+3] . C C O C C . O = S ( = O ) ( O ) O . O >> O = C 1 C = C C C C 1
+O = C C 1 = C C = C O 1 . O . C C ( C ) = O . [OH-] ~ [Na+] . O = S ( = O ) ( O ) O >> C C ( = O ) / C = C / C 1 = C C = C O 1
+C N ( C ) C 1 = C C = C C = C 1 . O = C ( Cl ) C ( = O ) Cl . Cl [Al] ( Cl ) Cl . S = C = S >> C N ( C ) C 1 = C C = C ( C ( = O ) C ( = O ) C 2 = C C = C ( N ( C ) C ) C = C 2 ) C = C 1
+C 1 = C C = C 2 C ( = C 1 ) C = C C 1 = C C = C C = C 1 2 . O = S ( [O-] ) ( = S ) [O-] ~ [Na+] ~ [Na+] . O = [O+] [O-] . C O . [Na+] ~ [I-] . C C ( = O ) O >> O = C C 1 = C C = C C = C 1 C 1 = C C = C C = C 1 C = O
+O = C C 1 = C C = C C = C 1 . C O . C O . C C O . C [N+] ( = O ) [O-] . [OH-] ~ [Na+] . O . Cl >> O = [N+] ( [O-] ) C = C C 1 = C C = C C = C 1
+O = S ( = O ) ( C ( Br ) C 1 = C C = C C = C 1 ) C ( Br ) C 1 = C C = C C = C 1 . Cl C Cl . C C N ( C C ) C C >> O = S 1 ( = O ) C ( C 2 = C C = C C = C 2 ) = C 1 C 1 = C C = C C = C 1
+C = C C 1 ( O C C O C ) C C 1 . C C O C C . O = [Si] = O . C # C C N 1 C ( = O ) C 2 = C C = C C = C 2 C 1 = O . [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [Cl-] ~ [Cl-] ~ [Rh+] ~ [Rh+] . Cl C C Cl . Cl . C C O >> O = C 1 C C C = C ( C N 2 C ( = O ) C 3 = C C = C C = C 3 C 2 = O ) C C 1
+N N = C ( N ) N ~ C ( = O ) ( O ) O . O = C O >> N N = C ( N ) ( N ) ~ O C = O
+C N C . Cl P ( Cl ) Cl . C C O C C >> C N ( C ) P ( N ( C ) C ) N ( C ) C . C N C . Cl
+O = C ( O ) C Cl . [Cl-] ~ [Cl-] ~ [Ba+2] . [O-2] ~ [O-2] ~ [O-2] ~ [As+3] ~ [As+3] . [OH-] ~ [Na+] >> O = C ( [O-] ) C [As] ( = O ) ( O ) [O-] ~ O ~ [Na+] ~ [Na+]
+C O C 1 = C ( O C ) C = C ( C # N ) C = C 1 . O O ~ O . [OH-] ~ [K+] >> C O C 1 = C ( O C ) C = C ( C ( N ) = O ) C = C 1
+[Cl-] ~ N # [N+] C 1 = C C = C C 2 = C C = C C = C 2 1 . Cl [Hg] Cl . C C ( C ) = O . [Cu] . [NH4+] ~ [OH-] >> C 1 = C C = C 2 C ( = C 1 ) C = C C = C 2 C [Hg] C C 1 = C C = C C 2 = C C = C C = C 2 1
+O C 1 C = C C ( O ) C 1 . Cl C ( Cl ) Cl . O = [Cr] ( = O ) = O . O = S ( = O ) ( O ) O . Cl C Cl >> O = C 1 C = C C ( = O ) C 1
+C C 1 = C C = C ( S ( = O ) ( = O ) Cl ) C = C 1 . [OH-] ~ [Na+] . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . O . [Zn] >> C C 1 = C C = C ( S ( = O ) [O-] ~ O ~ O ~ O ~ O ~ [Na+] ) C = C 1
+Cl [Zn] Cl . C C O C 1 ( O [Si] ( C ) ( C ) C ) C C 1 . O = C 1 C = C C C C 1 . C N ( C ) P ( = O ) ( N ( C ) C ) N ( C ) C . O = [Si] = O . C C C C C C . C C C C C C . C C O C C . C S C ~ [Cu] Br >> C C O C ( = O ) C C C 1 C = C ( O [Si] ( C ) ( C ) C ) C C C 1
+O = [N+] ( [O-] ) C 1 = C C ( S ( = O ) ( = O ) Cl ) = C C = C 1 . O = S ( O ) [O-] ~ [Na+] . I >> O = [N+] ( [O-] ) C 1 = C C ( S S C 2 = C C = C C ( [N+] ( = O ) [O-] ) = C 2 ) = C C = C 1
+C C 1 = C C = C ( C 2 = C C ( C ( F ) ( F ) F ) = N N 2 C 2 = C C = C ( S ( N ) ( = O ) = O ) C = C 2 ) C = C 1 . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] . C C 1 = C C ( C ~ [Cl-] ) = C ( N 2 C = [N+] 3 C C C C 3 = N 2 ) C ( C ) = C 1 . C C O . O = C C 1 = C C = C C = C 1 . C N ( C ) C = O . Br C C 1 = C C = C C = C 1 >> C C 1 = C C = C ( C 2 = C C ( C ( F ) ( F ) F ) = N N 2 C 2 = C C = C ( S ( = O ) ( = O ) C C 3 = C C = C C = C 3 ) C = C 2 ) C = C 1
+O C ( O ) C ( Cl ) ( Cl ) Cl . C C C C C O . O = C ( [O-] ) [O-] ~ [Ca+2] . [C-] # N ~ [Na+] . O . Cl >> O = C ( O ) C ( Cl ) Cl
+C C ( = O ) O . C C ( = O ) [O-] ~ C C ( = O ) [O-] ~ O ~ O ~ O ~ O ~ [Mn+2] . O = [Mn] ( = O ) ( [O-] ) = O ~ [K+] . C C ( = O ) O C ( C ) = O . C = C C C C C C C C C . C C ( = O ) [O-] ~ [Na+] >> C C C C C C C C C 1 C C C ( = O ) O 1
+C N ( C ) C C 1 = C C = C C = C 1 . C C O . C C O C C . C I >> C [N+] ( C ) ( C ) C C 1 = C C = C C = C 1 ~ [I-]
+C 1 = C C = C C = C 1 . C O . [Zn] . [OH-] ~ [Na+] . Cl [Al] ( Cl ) Cl . O = S ( Cl ) Cl >> C 1 = C C = C ( S C 2 = C C = C C = C 2 ) C = C 1
+N [C@@H] ( C C 1 = C C = C C = C 1 ) C ( = O ) O . C C C C C C . C C C C C C . C C C C C C . C C C C C C . [OH-] ~ [Na+] . O . C C ( C ) ( C ) O . C C ( C ) ( C ) O C ( = O ) O C ( = O ) O C ( C ) ( C ) C >> C C ( C ) ( C ) O C ( = O ) N [C@@H] ( C C 1 = C C = C C = C 1 ) C ( = O ) O
+O = C 1 O C ( O ) C ( Cl ) = C 1 Cl . C C ( C ) O . C C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) O >> C C ( C ) O C 1 O C ( = O ) C ( Cl ) = C 1 Cl
+C C # C C ( = O ) O . Cl C Cl . C C C C C C . Br Br . C O . O = S ( [O-] ) S ( = O ) ( = O ) [O-] ~ [Na+] ~ [Na+] >> C / C ( Br ~ C / C ( Br ~ [Cd] ) = C ( \ Br ) C ( = O ) O ) = C ( \ Br ) C ( = O ) O
+O = C 1 C C C C C 1 . C [O-] ~ [Na+] . C = C C O . C O C ( C ) ( C ) O C . C C 1 = C C = C ( S ( = O ) ( = O ) O ~ O ) C = C 1 . C 1 = C C = C C = C 1 >> C = C C O C 1 ( O C C = C ) C C C C C 1
+C C ( = O ) O C 1 = C C ( O C ( C ) = O ) = C ( O C ( C ) = O ) C = C 1 . C C O C ( = O ) C C ( C ) = O . O = S ( = O ) ( O ) O . O >> C C 1 = C C ( = O ) O C 2 = C C ( O ) = C ( O ) C = C 1 2
+O C C 1 O [C@@H] ( O [C@@H] 2 C ( C O ) O C ( O ) C ( O ) C 2 O ) C ( O ) C ( O ) C 1 O . O = S ( = O ) ( O ) O . C C ( = O ) O C ( C ) = O >> C C ( = O ) O C [C@H] 1 O [C@@H] ( O [C@H] 2 [C@H] ( O C ( C ) = O ) [C@@H] ( O C ( C ) = O ) [C@H] ( O C ( C ) = O ) O [C@@H] 2 C O C ( C ) = O ) [C@H] ( O C ( C ) = O ) [C@@H] ( O C ( C ) = O ) [C@@H] 1 O C ( C ) = O
+O = C C 1 = C C = C C = C 1 . C C C C N . C 1 = C C = C C = C 1 . C 1 = C C = C C = C 1 . [OH-] ~ [Na+] . C O S ( = O ) ( = O ) O C >> C C C C N C
+C N ( C ) C = O . Cl C = C ( Cl ) Cl . O = P ( Cl ) ( Cl ) Cl . O = C 1 C C C C C 1 . C C ( = O ) [O-] ~ [Na+] . O >> O = C C 1 = C ( Cl ) C C C C 1
+C [Si] ( C ) ( C ) O C 1 C C C C ( C # N ) C 1 . C O . [F-] ~ [K+] >> [C-] # [N+] C 1 C C C C C 1 O
+C = C C Br . Cl C ( Cl ) ( Cl ) Cl . Br Br >> Br C C ( Br ) C Br
+O = C 1 N C ( = O ) C 2 = C C = C C = C 1 2 . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] . Cl C C 1 = C C = C C = C 1 >> O = C 1 C 2 = C C = C C = C 2 C ( = O ) N 1 C C 1 = C C = C C = C 1
+[C-] # N ~ [Na+] . C = O . O . C O S ( = O ) ( = O ) O >> C O C C # N
+C 1 = C C = C ( C 2 C C O C O 2 ) C = C 1 . [Na] . C C C C O . C C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) O >> O C C C C 1 = C C = C C = C 1
+C C 1 C C C C C 1 = O . C [O-] ~ [Na+] . C C O C = O . C C O C C >> C C 1 C C C [C-] ( C = O ~ [Na+] ) C 1 = O
+O C C C C C C O . O = S ( [O-] ) ( = S ) [O-] ~ [Na+] ~ [Na+] . O = P ( = O ) O P ( = O ) = O . O = P ( O ) ( O ) O . [K+] ~ [I-] >> I C C C C C C I
+C = C C Br . [Mg] . I I . [NH4+] ~ [Cl-] . C C O C C . C C C C [Sn] ( C C C C ) ( C C C C ) O [Sn] ( C C C C ) ( C C C C ) C C C C >> C = C C [Sn] ( C C C C ) ( C C C C ) C C C C
+C C C ( C C ) = N N 1 C C C [C@@] 1 ( C ) C C . C C O C C . C C C C C C . C C O C C . C C O C C . O . C C ( C ) N C ( C ) C . [Li+] ~ C C C [CH2-] . C C C I >> C C C [C@H] ( C ) / C ( C C ) = N \ N 1 C C C [C@] 1 ( C ) C C
+N C ( = O ) N C 1 = C C = C C = C 1 . C . N N ~ O >> N N C ( = O ) N C 1 = C C = C C = C 1
+O = C 1 N C ( = O ) C 2 = C C = C C = C 1 2 . O = S ( = O ) ( O ) O . O = [N+] ( [O-] ) O >> O = C 1 N C ( = O ) C 2 = C 1 C = C C ( [N+] ( = O ) [O-] ) = C 2
+C C ( C C ( = O ) [O-] ) C ( = O ) [O-] ~ [Na+] ~ [Na+] . S = P 1 2 S P 3 S P ( S P ( S 3 ) S 1 ) S 2 >> C C 1 = C S C = C 1
+C N C ~ Cl . O = C 1 C C C C C 1 . [Na+] ~ [Cl-] . [OH-] ~ [K+] . [B-] C # N ~ [Na+] . C O >> C N ( C ) C 1 C C C C C 1
+Br C 1 = C C = C S 1 . S C 1 = C C = C S 1 . C N ( C ) C = O . [OH-] ~ [K+] . Cl . [O-2] ~ [Cu+] ~ [Cu+] . O >> C 1 = C S C ( S C 2 = C C = C S 2 ) = C 1
+C [Si] ( C ) ( C ) Cl . [N-] = [N+] = [N-] ~ [Na+] . C O C C O C C O C >> C [Si] ( C ) ( C ) N = [N+] = [N-]
+O = C ( C 1 = C C = C C = C 1 ) C ( O ) C 1 = C C = C C = C 1 . Cl . O = S ( = O ) ( [O-] ) [O-] ~ [Cu+2] . C 1 = C C = N C = C 1 . O >> O = C ( C ( = O ) C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+N C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1 . C C O C C . C C ( = O ) O . Cl I >> N C 1 = C ( I ) C = C ( [N+] ( = O ) [O-] ) C = C 1 I
+C C ( = O ) N C 1 = C C = C ( N ) C = C 1 . O = C ( O ) C S C ( = S ) S C C ( = O ) O . O >> C C ( = O ) N C 1 = C C = C ( N 2 C ( = O ) C S C 2 = S ) C = C 1
+C C 1 ( C 2 = C C = C C = C 2 ) C ( C # N ) C ( = O ) N C ( = O ) C 1 C # N . O = S ( = O ) ( O ) O . O . C C ( = O ) O >> C C ( C C ( = O ) O ) ( C C ( = O ) O ) C 1 = C C = C C = C 1
+N C ( N ) = S . C C O . O . C O S ( = O ) ( = O ) O >> C S C ( = N ) N ~ O S ( = O ) ( = O ) O
+O = C ( O ) C 1 = C C = C C = C 1 Cl . C . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] . N C 1 = C C = C C = C 1 . O = [Cu] >> O = C ( O ) C 1 = C C = C C = C 1 N C 1 = C C = C C = C 1
+C 1 C N C C N 1 . Cl ~ Cl ~ O ~ N 1 C C N C C 1 . Cl C C 1 = C C = C C = C 1 . C C O . C C O . Cl . [OH-] ~ [Na+] >> C 1 = C C = C ( C N 2 C C N C C 2 ) C = C 1
+C O C 1 = C ( O ) C = C C ( C = O ) = C 1 . C O S ( = O ) ( = O ) O . [OH-] ~ [Na+] >> C O C 1 = C ( O C ) C = C ( C = O ) C = C 1
+C = O . C C N C C . O = S ( O ) [O-] ~ [Na+] . [C-] # N ~ [Na+] . O >> C C N ( C C ) C C # N
+O = P ( Cl ) ( Cl ) C Cl . S = P 1 2 S P 3 ( = S ) S P ( = S ) ( S 1 ) S P ( = S ) ( S 2 ) S 3 >> S = P ( Cl ) ( Cl ) C Cl
+C O C 1 = C ( O C ) C = C ( C ( N ) = O ) C = C 1 . [OH-] ~ [Na+] . O . Cl Cl >> C O C 1 = C ( O C ) C = C ( N ) C = C 1
+O = C 1 O C ( = O ) C 2 = C C = C C = C 1 2 . C C O . N C C O . Br P ( Br ) Br >> O = C 1 C 2 = C C = C C = C 2 C ( = O ) N 1 C C Br
+C C I . C C Br . [Cu] ~ [Zn] >> C [CH2-] ~ C [CH2-] ~ [Zn+2]
+O = C C 1 = C C = C C = C 1 . C C O . N C 1 = C C = C C = C 1 >> C 1 = C C = C ( C = N C 2 = C C = C C = C 2 ) C = C 1
+N C ( N ) = S . C C ( = O ) C Cl . O . [OH-] ~ [Na+] >> C C 1 = C S C ( N ) = N 1
+N [C@@H] ( C S S C [C@H] ( N ) C ( = O ) O ) C ( = O ) O . Cl . O . Br Br >> N [C@@H] ( C S ( = O ) ( = O ) O ~ O ) C ( = O ) O
+C C O C ( = O ) C [C@H] ( O ) C ( = O ) O C C . C 1 C C O C 1 . C C O C C . [Li+] ~ C C C [CH2-] . C C ( C ) N C ( C ) C . C = C C Br >> C = C C [C@@H] ( C ( = O ) O C C ) [C@H] ( O ) C ( = O ) O C C
+N # C N = C ( N ) N . [NH4+] ~ [N+] ( = O ) ( [O-] ) [O-] >> N = C ( N ) N ~ [N+] ( = O ) ( [O-] ) O
+C 1 = C C = C ( / C = C / C 2 = C C = C C = C 2 ) C = C 1 . Cl C Cl . O = S ( [O-] ) S ( = O ) ( = O ) [O-] ~ [Na+] ~ [Na+] . O = S ( = O ) ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C C O C ( C ) = O . C [N+] 1 ( [O-] ) C C O C C 1 . C = C [C@H] 1 C N 2 C C [C@H] 1 C [C@@H] 2 [C@@H] ( O C ( = O ) C 1 = C C = C ( Cl ) C = C 1 ) C 1 = C 2 C = C ( O C ) C = C C 2 = N C = C 1 . C C ( C ) = O . O . O = [Os] ( = O ) ( = O ) = O >> O C 1 = C C = C C ( C = C C 2 = C C = C C = C 2 ) = C 1 O
+Cl C 1 C C ( Br ) C 1 . C 1 C O C C O 1 . [Na] >> C 1 C 2 C C 1 2
+C C ( = O ) N ( C ) C . C = C C C C C C C . Cl C Cl . Cl C C Cl . Cl C ( Cl ) ( Cl ) Cl . O = S ( = O ) ( O S ( = O ) ( = O ) C ( F ) ( F ) F ) C ( F ) ( F ) F . C C 1 = C C ( C ) = N C ( C ) = C 1 . O >> C C C C C C C 1 C C ( = O ) C 1
+N = C ( N ) N [N+] ( = O ) [O-] . [NH4+] ~ [Cl-] . [NH4+] ~ [Cl-] . [Zn] . C C ( = O ) O . O = C ( O ) [O-] ~ [Na+] >> N N = C ( N ) N ~ C ( = O ) ( O ) O
+C [Si] ( C ) ( C ) O C 1 = C C C C 1 . Cl C Cl . Cl C Cl . C C C ( C ) ( C ) Cl . Cl [Ti] ( Cl ) ( Cl ) Cl >> C C C ( C ) ( C ) C 1 C C C C 1 = O
+C C 1 = C C = C C = C 1 C Br . C C O C C . [Na] . C C O . C C ( C ) [N+] ( = O ) [O-] >> C C 1 = C C = C C = C 1 C = O
+O = C 1 C C C C C 1 . C 1 C O C C N 1 . C C 1 = C C = C ( S ( = O ) ( = O ) O ) C = C 1 . C C 1 = C C = C C = C 1 >> C 1 = C ( N 2 C C O C C 2 ) C C C C 1
+Cl C C O C C O C C Cl . [OH-] ~ [Na+] . Cl C ( Cl ) Cl . N C C 1 = C C = C C = C 1 >> C 1 = C C = C ( C N C C O C C O C C N C C 2 = C C = C C = C 2 ) C = C 1
+C C 1 = C C = C ( C 2 = C C ( C ( F ) ( F ) F ) = N N 2 C 2 = C C = C ( S ( N ) ( = O ) = O ) C = C 2 ) C = C 1 . O = [Si] = O . [F-] ~ [K+] . [Mg+2] ~ [Cl-] ~ [Cl-] . F [B-] ( F ) ( F ) F ~ C 1 = C C = [O+] C = C 1 . C C # N >> C C 1 = C C = C ( C 2 = C C ( C ( F ) ( F ) F ) = N N 2 C 2 = C C = C ( S ( = O ) ( = O ) F ) C = C 2 ) C = C 1
+O = C C 1 = C C = C C = C 1 . [OH-] ~ [Na+] . C C O . [C-] # N ~ [Na+] . O . [NH4+] ~ [Cl-] . C O . Cl . [NH4+] ~ [OH-] >> C C ( N ) ( C ( = O ) O ) C 1 = C C = C C = C 1
+O = C ( O ) C 1 = C C = C O 1 . O = S ( O ) [O-] ~ [Na+] . O . Br Br >> O = C C ( Br ) = C ( Br ) C ( = O ) O
+C C = O . C C O . [Cl-] ~ [Cl-] ~ [Ca+2] >> C C O C ( C ) O C C
+O = C 1 N C ( = O ) C 2 = C 1 C = C C ( [N+] ( = O ) [O-] ) = C 2 . [OH-] ~ [Na+] . O = [N+] ( [O-] ) O >> O = C ( O ) C 1 = C ( C ( = O ) O ) C = C ( [N+] ( = O ) [O-] ) C = C 1
+C C 1 = C C ( C ) = C C ( C ) = C 1 . O = C ( Cl ) C ( = O ) Cl . Cl [Al] ( Cl ) Cl . S = C = S . Cl >> C C 1 = C C ( C ) = C ( C ( = O ) O ) C ( C ) = C 1
+O = C ( Cl ) C 1 = C C = C C = C 1 . C 1 C C O C 1 . Cl [Zn] Cl >> O = C ( O C C C C Cl ) C 1 = C C = C C = C 1
+C C ( = O ) C 1 = C C = C ( C 2 = C ( O ) C = C C ( O ) = C 2 ) C = C 1 . O = S ( = O ) ( O ) O . C C C C O . C C ( = O ) O C ( C ) = O >> C C ( = O ) O C 1 = C C = C ( O C ( C ) = O ) C ( C 2 = C C = C ( C ( C ) = O ) C = C 2 ) = C 1
+C C 1 = C C ( C ) = C ( O ) C ( C ) = C 1 . [Na] . N Cl . C C O C C >> C C 1 = C C ( C ) C ( = O ) N C ( C ) = C 1
+C C O C ( = O ) C ( C ( = O ) O C C ) N 1 C ( = O ) C 2 = C C = C C = C 2 C 1 = O . [Na] . C C O >> C C O C ( = O ) [C-] ( C ( O C C ) = O ~ [Na+] ) N 1 C ( = O ) C 2 = C C = C C = C 2 C 1 = O
+O = C C = O . C O . O = S ( [O-] ) [O-] ~ [Na+] ~ [Na+] . O = C ( O ) [O-] ~ [Na+] . Cl >> O = C 1 C ( O ) = C ( O ) C ( = O ) C ( O ) = C 1 O
+N C 1 = C C = C C = C 1 . O = S ( = O ) ( [O-] ) [O-] ~ [Na+] ~ [Na+] . O C ( O ) C ( Cl ) ( Cl ) Cl . N O ~ Cl . Cl . O >> O = C ( / C = N / O ) N C 1 = C C = C C = C 1
+C O C 1 = C C = C C = C 1 ~ [CH2+] [Fe] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ F [P-] ( F ) ( F ) ( F ) ( F ) F . C C 1 ( C ) C C ( = O ) C C ( = O ) C 1 . O . C C O >> C = C 1 C C ( C ) ( C ) C C ( = C ~ C [Fe] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ) C 1 C 1 C = C C ( O C ) = C C 1
+C C ( C ) ( C ) O O C ( = O ) C 1 = C C = C C = C 1 . [Br-] ~ [Mg+2] ~ C 1 = C [C-] = C C = C 1 . C C O C C . Cl >> C C ( C ) ( C ) O C 1 = C C = C C = C 1
+N # C C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . O = [N+] ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ O ~ O ~ O ~ [Fe+3] . [K] . N . Cl C C 1 = C C = C C = C 1 . C C O C C >> N # C C ( C C 1 = C C = C C = C 1 ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C = C C ( C ) = O . N # [N+] C 1 = C C = C ( Cl ~ [Cl-] ) C = C 1 . C N ( C ) C = O . C C O C C . Cl [Ti] ( Cl ) Cl . O >> C C ( = O ) C C C 1 = C C = C ( Cl ) C = C 1
+C = C C ( = O ) C 1 = C C = C C = C 1 . Cl C Cl . Cl C Cl . Cl C Cl . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . Cl [Ti] ( Cl ) ( Cl ) Cl . C = C ( O [Si] ( C ) ( C ) C ) C 1 = C C = C C = C 1 >> C C ( C ) ( C C ( = O ) C 1 = C C = C C = C 1 ) C C ( = O ) C 1 = C C = C C = C 1
+Cl C 1 = C ( Cl ) C ( Cl ) ( Cl ) C ( Cl ) = C 1 Cl . C C O P ( O C C ) O C C . C C O C C >> C C C 1 ( Cl ) C ( Cl ) = C ( Cl ) C ( Cl ) = C 1 Cl
+C 1 C C N C 1 . C C O C ( = O ) C ( C ) Br . C 1 = C C = C C = C 1 >> C C O C ( = O ) C ( C ) N 1 C C C C 1
+C C 1 = C C C C C 1 = O . [Li+] ~ [CH3-] . [Cu+] ~ [I-] . C C O C C . C = C ( C ( C ) = O ) [Si] ( C ) ( C ) C . [NH4+] ~ [Cl-] ~ [NH4+] ~ [OH-] >> C C 1 = C ( [Si] ( C ) ( C ) C ) C C 2 ( C ) C ( C ) C C C C 2 ( O ) O 1
+O = C ( O ) / C = C / C 1 = C C = C C = C 1 . O = S ( Cl ) Cl . O C 1 = C C = C C = C 1 >> O = C ( / C = C / C 1 = C C = C C = C 1 ) O C 1 = C C = C C = C 1
+O = C ( Cl ) C 1 = C C = C C = C 1 C ( = O ) Cl . C 1 = C C = C C = C 1 . Cl [Al] ( Cl ) Cl . O >> O = C 1 O C ( Cl ) ( Cl ) C 2 = C C = C C = C 1 2
+Cl C C C C Cl . [Na+] ~ [Cl-] . C N ( C ) C = O . [Na+] ~ [Na+] ~ [S-2] . O >> C 1 C C S C 1
+C C ( = O ) O C 1 C C C 2 C ( O C ( C ) = O ) C C C 1 2 . [OH-] ~ [Na+] >> O C 1 C C C 2 C ( O ) C C C 1 2
+O C 1 = C C = C C 2 = C C = C C = C 1 2 . [Li] . N . C C O . Cl . C ~ [Pd] . C C O C ( C ) = O >> O C 1 = C C = C C 2 = C 1 C C C C 2
+C C 1 ( C ) C ( = O ) C ( C ) ( C ) C 1 = O . [Na+] ~ [Cl-] . C C ( = O ) [O-] ~ [Na+] . Cl C 1 = C C = C C = C 1 . Cl [Al] ( Cl ) Cl >> C C ( C ) = C 1 O C ( = O ) C 1 ( C ) C
+O = C ( O ) / C = C / C 1 = C C = C O 1 . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C C O . Cl >> C C O C ( = O ) C C C ( = O ) C C C ( = O ) O C C
+O = C ( O ) C Cl . O = S ( = O ) ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C C O . [Na] . Cl >> C C O C C ( = O ) O
+N C 1 = C C = C C = C 1 . O = C ( O ) [O-] ~ [Na+] . I I . O >> N C 1 = C C = C ( I ) C = C 1
+F C ( F ) = C ( F ) Cl . C C O . [Na] >> C C O C ( F ) ( F ) C ( F ) Cl
+C C ( = O ) C 1 = C C = C C = C 1 O . C C 1 = C C = C ( C ) C = C 1 . [Na] . C C O C ( = O ) C C . C C ( = O ) O . O . Cl >> C C C 1 = C O C 2 = C C = C C = C 2 C 1 = O
+N C ( = O ) C 1 = C N = C C = C 1 . O = P ( = O ) O P ( = O ) = O >> N # C C 1 = C N = C C = C 1
+C C 1 = C C = C ( S ( = O ) ( = O ) Cl ) C = C 1 . N N ~ O . C 1 C C O C 1 . O >> C C 1 = C C = C ( S ( = O ) ( = O ) N N ) C = C 1
+[N-] = [N+] = C C ( = O ) C C C 1 = C C = C C = C 1 . Cl C Cl . Cl C Cl . C C ( = O ) [O-] ~ C C ( = O ) [O-] ~ C C ( = O ) [O-] ~ C C ( = O ) [O-] ~ [Rh+2] ~ [Rh+2] . O = [Al] O [Al] = O >> O = C 1 C C C 2 = C 1 C = C C = C C 2
+C N ( C ) C 1 = C C = C C = C 1 . [NH4+] ~ [OH-] . O = S ( = O ) ( O ) O . O = [N+] ( [O-] ) O >> C N ( C ) C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1
+O N = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . Cl >> N = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 ~ Cl
+O = C 1 O C C 2 = C C = C C = C 1 2 . O = C 1 C C C ( = O ) N 1 Br . Cl C ( Cl ) ( Cl ) Cl >> O = C 1 O C ( Br ) C 2 = C C = C C = C 1 2
+N # [N+] C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1 ~ F [B-] ( F ) ( F ) F . [NH4+] ~ [OH-] . [O-] [As] = O ~ [Na+] . [OH-] ~ [Na+] . Cl [Cu] . Cl >> O = [N+] ( [O-] ) C 1 = C C = C ( [As] ( = O ) ( O ) O ) C = C 1
+O = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . [OH-] ~ [Na+] . O . C C O . N O ~ Cl >> O N = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+Cl C C C Br . Cl C ( Cl ) Cl . C C O . [C-] # N ~ [K+] . O >> N # C C C C Cl
+O = C ( C = C C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . [C-] # N ~ [K+] . C C ( = O ) O . C C O . O >> N # C C ( C C ( = O ) C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C C ( C ) ( O ) C # C C ( C ) ( C ) O . [Na+] ~ [Cl-] . O = [Hg] . O = S ( = O ) ( O ) O >> C C 1 ( C ) C C ( = O ) C ( C ) ( C ) O 1
+Br C C 1 = C C = C C = C 1 C Br . C C O . C C 1 = C C = C ( S ( N ) ( = O ) = O ) C = C 1 . C N ( C ) C = O . [H-] ~ [Na+] >> C C 1 = C C = C ( S ( = O ) ( = O ) N 2 C C 3 = C C = C C = C 3 C 2 ) C = C 1
+C N . O = C ( O ) C Cl . [Cl-] ~ [Cl-] ~ [Ba+2] . O = S ( = O ) ( O ) O . C O . [OH-] ~ [Na+] . O >> C N ( C C ( = O ) O ) C C ( = O ) O
+C C ( = O ) C 1 = C C = C C = C 1 . C C O C ( = O ) C C # N . c 1 c c c c c 1 . O = [S@SP2] ( = O ) ( [O-] ) [O-] ~ [Mg+2] . C C ( = O ) [O-] ~ [NH4+] . C C ( = O ) O . C 1 = C C = C C = C 1 >> C C O C ( = O ) C ( C # N ) = C ( C ) C 1 = C C = C C = C 1
+O = C 1 C C C C C C C C C C C 1 . C C 1 = C C = C C = C 1 . C C O C C ~ F B ( F ) F . C C 1 = C C = C C = C 1 . C C 1 = C C = C C = C 1 . O C C O . C N 1 C C C [C@H] 1 C 1 = C N = C C = C 1 . [N-] = [N+] = N P ( = O ) ( O C 1 = C C = C C = C 1 ) O C 1 = C C = C C = C 1 . [OH-] ~ [K+] >> O = C ( O ) C 1 C C C C C C C C C C 1
+C C O C ( = O ) C C # N . C C C ( C ) = O . C C ( = O ) O . [C-] # N ~ [K+] . C C O . Cl >> C C C ( C ) ( C C ( = O ) O ) C ( = O ) O
+C C ( C ) = O . C = C ( O [Si] ( C ) ( C ) C ) C 1 = C C = C C = C 1 . Cl C Cl . Cl C Cl . Cl C Cl . O = C ( O ) [O-] ~ [Na+] . Cl [Ti] ( Cl ) ( Cl ) Cl >> C C ( C ) ( O ) C C ( = O ) C 1 = C C = C C = C 1
+O = C C 1 = C C = C C = C 1 . O = S ( O ) [O-] ~ [Na+] . O . C N C . [C-] # N ~ [Na+] . O >> C N ( C ) C ( C # N ) C 1 = C C = C C = C 1
+N C ( N ) = O . C C O C ( = O ) C ( = O ) O C C . C O . [Na] . Cl >> O = C 1 N C ( = O ) C ( = O ) N 1
+N # C C C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) O . O . C C O >> C C O C ( = O ) C C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) [O-] ~ [Na+]
+C C O C ( = O ) C ( C # N ) = C ( C C ) C C . O = S ( O ) [O-] ~ [Na+] . [Na] . C C O . C I >> C / C = C ( \ C C ) C ( C ) ( C # N ) C ( = O ) O C C
+C = C ( Cl ) C Cl . [Zn] . C C O . O >> C = C = C
+C C O C ( = O ) C C ( C ) = O . C . O = S ( = O ) ( O ) O >> C C 1 = C C ( = O ) O C ( C ) = C 1 C ( = O ) O . C C O C ( = O ) C 1 = C ( C ) O C ( = O ) C = C 1 C
+C C O C ( = O ) C ( C C ) C ( = O ) O C C . [H-] ~ [Na+] . C 1 = C C = C C = C 1 . O = C ( O O C ( = O ) C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 >> C C C ( = O ) O C ( C C ) ( O O C 1 = C C = C C = C 1 ) O C ( = O ) C C
+O C 1 = C C = C C = C 1 . Br C C C Br . [OH-] ~ [Na+] . O >> Br C C C O C 1 = C C = C C = C 1
+O C C O C C O C C O . Cl C C O C C O C C Cl . Cl C Cl . C 1 C C O C 1 . [OH-] ~ [K+] >> C 1 C O C C O C C O C C O C C O C C O 1
+C # C C . O = [N+] ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ O ~ O ~ O ~ O ~ O ~ O ~ O ~ O ~ O ~ [Fe+3] . [Na] . N >> C C # [C-] ~ [Na+]
+C [Si] ( C ) ( Cl ) C Cl . [NH4+] ~ [Cl-] . C N ( C ) C C N ( C ) C ~ Cl [Zn] Cl . C 1 C O C C O 1 . [Br-] ~ [Mg+2] ~ C 1 = C [C-] = C C = C 1 >> C [Si] ( C ) ( C Cl ) C 1 = C C = C C = C 1
+C C 1 ( C ) C O C = [N+] 1 C ~ [I-] . C O C 1 = C C = C C = [C-] 1 ~ [Mg+2] ~ [Br-] . [NH4+] ~ [Cl-] . C 1 C C O C 1 . C N ( C ) P ( = O ) ( N ( C ) C ) N ( C ) C >> C O C 1 = C C = C C = C 1 C 1 O C C ( C ) ( C ) N 1 C
+O = C ( O ) C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1 . Cl P ( Cl ) ( Cl ) ( Cl ) Cl >> O = C ( Cl ) C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1
+C [N+] ( C ) ( C ) C C 1 = C C = C C = C 1 ~ [I-] . O = [N+] ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ [Fe+3] . [NH4+] ~ [Cl-] . O . C C O C C . [Na] . N >> C C 1 = C C = C C = C 1 C N ( C ) C
+C = C ( C ) C 1 = C C = C C = C 1 . C C N ( C C ) C C ~ F ~ F ~ F . Cl C Cl . O = C 1 C C C ( = O ) N 1 Br >> C C ( F ) ( C Br ) C 1 = C C = C C = C 1
+C N = C = S . C . [NH4+] ~ [OH-] >> C N C ( N ) = S
+C = C C 1 = C C C 2 C C 1 C 2 ( C ) C . C C O . C C C C C C . Br C ( Br ) Br . [OH-] ~ [Na+] . C C [N+] ( C C ) ( C C ) C C 1 = C C = C C = C 1 ~ [Cl-] . Cl C Cl >> C C 1 ( C ) C 2 C C = C ( C 3 C C 3 ( Br ) Br ) C 1 C 2
+C N 1 C = C [N+] ( C ~ [I-] ) = C 1 . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] . S . C O >> C N 1 C = C N ( C ) C 1 = S
+N # C C C ( N ) = O . [Na+] ~ [Cl-] . O = P ( Cl ) ( Cl ) Cl . Cl C C Cl >> N # C C C # N
+O = [N+] ( [O-] ) C 1 = C C ( [N+] ( = O ) [O-] ) = C ( Cl ) C = C 1 . C C O . N N ~ O S ( = O ) ( = O ) O . C C ( = O ) [O-] ~ [K+] >> N N C 1 = C ( [N+] ( = O ) [O-] ) C = C ( [N+] ( = O ) [O-] ) C = C 1
+C C 1 = C C = C ( [Hg] Cl ) C = C 1 . C C O . [Na+] ~ [I-] >> C C 1 = C C = C ( [Hg] C 2 = C C = C ( C ) C = C 2 ) C = C 1
+C = C C = C . C N ( C ) C 1 = C C = C ( C ( = O ) C 2 = C C = C ( N ( C ) C ) C = C 2 ) C = C 1 >> C = C C 1 C C C 1 C = C
+C 1 = C C C = C 1 . C 1 = C C = C C = C 1 . [Na] . C O C C O C . Cl [Ru] ( Cl ) Cl . [Ru] >> C [Ru] C ~ C 1 = C C = C C 1 ~ C 1 = C C = C C 1
+C C ( = O ) C 1 = C C = C ( Br ) C = C 1 . Br Br . C C ( = O ) O >> O = C ( C Br ) C 1 = C C = C ( Br ) C = C 1
+C C ( = O ) O [C@H] ( C ( = O ) O ) C 1 = C C = C C = C 1 . O = S ( Cl ) Cl >> C C ( = O ) O [C@H] ( C ( = O ) Cl ) C 1 = C C = C C = C 1
+C C 1 = C C = C C = C 1 N . Cl . O = N [O-] ~ [Na+] . [C-] # N ~ [Cu+] >> C C 1 = C C = C C = C 1 C # N
+Cl I ( Cl ) C 1 = C C = C C = C 1 . Cl C ( Cl ) Cl . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . O . [OH-] ~ [Na+] >> O = I C 1 = C C = C C = C 1
+O = C 1 C 2 = C C = C C = C 2 C C 2 = C C = C C = C 1 2 . O = [N+] ( [O-] ) O . C C ( = O ) O >> O = C 1 C 2 = C C = C C = C 2 C ( [N+] ( = O ) [O-] ) C 2 = C C = C C = C 1 2
+C = C C 1 = C C = C C = C 1 . Cl P ( Cl ) ( Cl ) ( Cl ) Cl . C 1 = C C = C C = C 1 . O = S = O >> O = P ( Cl ) ( Cl ) C = C C 1 = C C = C C = C 1
+N # C C ( = O ) C 1 = C C = C C = C 1 . Cl C ( Cl ) ( Cl ) Cl . C . Cl . O >> O = C ( O ) C ( = O ) C 1 = C C = C C = C 1
+C C C C C ( C ( C ) = O ) C ( = O ) O C C . [OH-] ~ [Na+] . O = S ( = O ) ( O ) O >> C C C C C C ( C ) = O
+C C C ( = O ) C C . C C O C C . C O C [C@@H] 1 C C C N 1 N >> C C C ( C C ) = N N 1 C C C [C@@] 1 ( C ) C C
+C 1 = C C = C ( [Hg] C 2 = C C = C C = C 2 ) C = C 1 . [Al] . C C 1 = C C = C ( C ) C = C 1 >> C 1 = C C = C ( [Al] ( C 2 = C C = C C = C 2 ) C 2 = C C = C C = C 2 ) C = C 1 . [Hg]
+O = C 1 C = C [C@@H] ( C O ) O 1 . Cl C Cl . C 1 = C N C = N 1 . C C ( C ) ( C ) [Si] ( C ) ( C ) Cl >> C C ( C ) ( C ) [Si] ( C ) ( C ) O C [C@@H] 1 C = C C ( = O ) O 1
+C 1 = C C = N C = C 1 . N O S ( = O ) ( = O ) O . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] . O . I . C C O >> [I-] ~ N [N+] 1 = C C = C C = C 1
+C C ( C ) ( C ) C C ( C ) ( C ) N = O . C C C C C C . O = [Pb] = O . C C ( C ) ( C ) N N >> C C ( C ) ( C ) C C ( C ) ( C ) N ( O C ( C ) ( C ) C ) C ( C ) ( C ) C
+N C ( = O ) C 1 = C N = C C = C 1 . [Na+] ~ [Cl-] . [OH-] ~ [Na+] . Br Br >> N C 1 = C N = C C = C 1
+C # C C 1 = C C = C C = C 1 . C C O C ( O C C ) O C C . I [Zn] I >> C C O C ( C # C C 1 = C C = C C = C 1 ) O C C
+O = C ( C = C C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . C C O . C . C 1 = C C = C C = C 1 . Cl [Al] ( Cl ) Cl >> O = C ( C C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C O C ( = O ) C ( = C C 1 = C C = C C = C 1 ) C ( = O ) O C . [Ar] . [Ar] . O = [O+] [O-] . Cl C Cl . C S C . O = O >> C O C ( = O ) C ( = O ) C ( = O ) O C
+C 1 C N 2 C C N 1 C C 2 . C C O C C . C 1 C C O C 1 . O = S = O ~ C 1 = C N = C C = C 1 >> O = S ( [O-] ) [N+] 1 2 C C [N+] ( S ( = O ) [O-] ) ( C C 1 ) C C 2
+C = C ( C C C C C C C C C C ) C ( = O ) O C ( C ) ( C ) C . [OH-] ~ [K+] . C C O . O = S ( = O ) ( O ) O . O >> C = C ( C C C C C C C C C C ) C ( = O ) O
+C C ( = O ) C C ( = O ) [O-] ~ [K+] . Cl . [Cl-] ~ N # [N+] C 1 = C C = C C = C 1 . C C ( = O ) [O-] ~ [Na+] >> C C ( = O ) C = N N C 1 = C C = C C = C 1
+C C O C ( N ) = O . C C ( C ) ( C ) O Cl . C O . [OH-] ~ [Na+] >> C C O C ( = O ) N ( [Na] ) Cl
+O = C 1 N S ( = O ) ( = O ) C 2 = C C = C C = C 1 2 . O . Cl >> [NH4+] ~ [O-] S ( = O ) ( = O ) C 1 = C C = C C = C 1 C ( = O ) O
+O = C C 1 = C C = C O 1 . C C ( = O ) [O-] ~ [Na+] . C C ( = O ) O C ( C ) = O . O = S ( = O ) ( O ) O >> C C ( = O ) O C ( O C ( C ) = O ) C 1 = C C = C O 1
+C C O C ( = O ) C C ( = O ) C C ( = O ) O C C . Cl . O >> O = C 1 C = C ( C ( = O ) O ) O C ( C ( = O ) O ) = C 1
+C C ( = O ) C 1 C C O C 1 = O . Cl . O >> C C ( = O ) C C C Cl
+C C 1 C C C C C 1 O . C C C C C C . O = C O . O = S ( = O ) ( O ) O >> C C 1 ( C ( = O ) O ) C C C C C 1
+Br C 1 = C C = C C = C 1 I . C 1 = C C = C C = C 1 . [Li] . C C O C C >> C 1 = C C = C 2 C ( = C 1 ) C 1 = C C = C C = C 1 C 1 = C C = C C = C 2 1
+C C 1 = C C = C C = C 1 N . C . O . O = S ( = O ) ( O ) O >> C C 1 = C C ( S ( = O ) ( = O ) O ) = C C = C 1 N
+C C O C ( = O ) C C # N . N >> N # C C C ( N ) = O . C C O
+N C ( = O ) N [N+] ( = O ) [O-] . C . C C O . C N C . O >> C N ( C ) C ( N ) = O
+N # C C C 1 = C C = C C = C 1 . [Na] . C C O . C C O C ( = O ) C ( = O ) O C C . Cl >> C C O C ( = O ) C ( = O ) C ( C # N ) C 1 = C C = C C = C 1
+C O C = O . Cl P ( Cl ) ( Cl ) ( Cl ) Cl . O = P ( Cl ) ( Cl ) Cl >> C O C ( Cl ) Cl
+C C 1 = C C = C ( S ( = O ) ( = O ) Cl ) C = C 1 . C N . [OH-] ~ [Na+] . C C ( = O ) O . O = N [O-] ~ [Na+] >> C C 1 = C C = C ( S ( = O ) ( = O ) N ( C ) N = O ) C = C 1
+[Mg] . Br C 1 = C C = C C = C 1 . C C O C ( C ) = O . C C O C C . [NH4+] ~ [Cl-] . O = S ( = O ) ( O ) O >> C = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+O = C 1 C C C ( = O ) N 1 . C C O . [O-2] ~ [Ag+] ~ [Ag+] . S . C . [OH-] ~ [K+] . Br Br . O >> N C C C ( = O ) O
+O C C 1 O C ( O C 2 ( C O ) O C ( C O ) C ( O ) C 2 O ) C ( O ) C ( O ) C 1 O . Cl . O >> C C ( = O ) C C C ( = O ) O . O = C O
+O = C 1 O C ( = O ) C 2 = C 1 C C C 1 = C C = C C = C 1 2 . C 1 = C C = C C = C 1 . S 1 S S S S S S S 1 >> O = C 1 O C ( = O ) C 2 = C 1 C = C C 1 = C C = C C = C 1 2
+O C C 1 O C ( O ) C ( O ) C ( O ) C 1 O . C O . Cl >> C O C 1 O C ( C O ) C ( O ) C ( O ) C 1 O
+C = C C 1 = C C = C C = C 1 . C = O . O = S ( = O ) ( O ) O >> C 1 = C C = C ( C 2 C C O C O 2 ) C = C 1
+C C C C C ( = O ) C C C C C ( = O ) O . C C # N . C 1 C C O C 1 . C 1 = C C = N C = C 1 . C 1 C C O C 1 . [Na+] ~ [Cl-] . C [N+] ( = C Cl ) C ~ [Cl-] . [H-] ~ [Li+] ~ C C ( C ) ( C ) O [Al] ( O C ( C ) ( C ) C ) O C ( C ) ( C ) C >> C C C C C ( = O ) C C C C C = O
+C C O C ( C C Cl ) O C C . [OH-] ~ [K+] >> C = C C ( O C C ) O C C
+C = [N+] = [N-] . [2H] [O-] ~ [Na+] . [2H] O [2H] . C 1 C C O C 1 . C C O C C >> [2H] C ( [2H] ) = [N+] = [N-]
+C N ( C ) C ( = O ) C 1 = C C = C ( C ( = O ) N ( N = O ) N = O ) C = C 1 . C C O C C O C C O . [OH-] ~ [Na+] . C C O C C >> C = [N+] = [N-]
+O = C 1 C C C O 1 . Br . C C O >> C C O C ( = O ) C C C Br
+C C ( C ) = O . C C N C C ~ Cl . C = O . C O . [OH-] ~ [Na+] . O >> C C N ( C C ) C C C ( C ) = O
+Cl [Pd] Cl . Cl . O . O = C ( [O-] ) [O-] ~ [Ca+2] . O = C [O-] ~ [Na+] . C C ( = O ) [O-] ~ C C ( = O ) [O-] ~ [Pb+2] >> O = C ( [O-] ) [O-] ~ [Ca+2] ~ [Pd]
+O C C ( O ) C O . O = C ( O ) [O-] ~ [Na+] . P . Br Br >> O C ( C Br ) C Br
+C C ( C ) = O . C C 1 = C C = C ( C ) C = C 1 . C C O C C . C C O C C . [Na] . C C O . C C O C = O . C C ( = O ) O >> C C ( = O ) C 1 = C C ( C ( C ) = O ) = C C ( C ( C ) = O ) = C 1
+O = C ( O ) C C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1 . N . S . O . C C ( = O ) O >> N C 1 = C C = C ( C C ( = O ) O ) C = C 1 . C C ( = O ) [O-] ~ [NH4+]
+C 1 = C O C C C 1 . C C O C ( = O ) C ( Cl ) ( Cl ) Cl . C [O-] ~ [Na+] . C C C C C >> Cl C 1 ( Cl ) C 2 C C C O C 2 1
+C C 1 = C C = C C = C 1 N . Cl . O = N [O-] ~ [Na+] . Cl [Cu] >> C C 1 = C C = C C = C 1 Cl
+C 1 = C C C C C 1 . [OH-] ~ [Na+] . O O . O = C O >> O [C@@H] 1 C C C C [C@H] 1 O
+C C ( = O ) N C 1 = C ( C 2 N ( C 3 = C C = C C = C 3 ) C C N 2 C 2 = C C = C C = C 2 ) C = C ( C 2 N ( C 3 = C C = C C = C 3 ) C C N 2 C 2 = C C = C C = C 2 ) C ( O ) = C 1 . Cl >> C C ( = O ) N C 1 = C C ( O ) = C ( C = O ) C = C 1 C = O
+C C O P ( = O ) ( C C ( C ) = O ) O C C . C C C C C C . [H-] ~ [Na+] . C C 1 = C C = C C = C 1 . C C ( = O ) N C 1 = C C = C ( S ( = O ) ( = O ) N = [N+] = [N-] ) C = C 1 . C 1 C C O C 1 >> C C O P ( = O ) ( O C C ) C ( = [N+] = [N-] ) C ( C ) = O
+C C C C C C C C C C C C ( = O ) Cl . [N-] = [N+] = [N-] ~ [Na+] . O . C C ( C ) = O . C 1 = C C = C C = C 1 >> C C C C C C C C C C C N = C = O
+O = C C 1 = C C 2 = C ( C = C 1 ) O C O 2 . O = [Mn] ( = O ) ( [O-] ) = O ~ [K+] . O >> O = C ( O ) C 1 = C C = C 2 O C O C 2 = C 1
+O = C ( O C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 O . [OH-] ~ [Na+] . [OH-] ~ [Na+] . C O >> O = C 1 C 2 = C C = C C = C 2 O C 2 = C C = C C = C 1 2
+O = C ( O ) C C C C C ( = O ) C C C C C ( = O ) O . O C C O C C O . [OH-] ~ [K+] . N N ~ O >> O = C ( O ) C C C C C C C C C C ( = O ) O
+O C C ( O ) C O . C C ( = O ) O . Cl >> O C C ( O ) C Cl
+N C C O . C C ( C ) = O . Br >> Br C C [NH3+] ~ [Br-]
+C C ( C ) ( C ) O C ( = O ) N [C@H] ( C 1 = C C = C ( O C C 2 = C C = C C = C 2 ) C = C 1 ) C ( Br ) [N+] ( = O ) [O-] . O = C ( O C C 1 = C C = C C = C 1 ) [C@@H] ( C C 1 = C C = C C = C 1 ) N ~ Cl . C C O C ( C ) = O . C C 1 = C C = C C = C 1 ~ C 1 C C C C C 1 . O = C ( [O-] ) [O-] ~ [Cs+] ~ [Cs+] . O . C C 1 C C C O 1 . O = C 1 C C C ( = O ) N 1 I >> C C ( C ) ( C ) O C ( = O ) N [C@@H] ( C ( = O ) N [C@H] ( C C 1 = C C = C C = C 1 ) C ( = O ) O C C 1 = C C = C C = C 1 ) C 1 = C C = C ( O C C 2 = C C = C C = C 2 ) C = C 1
+C C O C ( = O ) C C C C C C C C C ( = O ) O . [OH-] ~ [K+] >> C C O C ( = O ) C C C C C C C C C ( = O ) O C C
+C 1 = C \ C C C C C C / 1 . C C # N . O O . [Na+] ~ [Cl-] . C O . O = C ( O ) [O-] ~ [K+] >> C 1 C C C [C@H] 2 O [C@H] 2 C C 1
+C C C C O . O B ( O ) O >> C C C C O B ( O ) O
+C C ( = O ) C 1 = C C = C C = C 1 . C C O C C . Cl [Al] ( Cl ) Cl . Br Br >> O = C ( C Br ) C 1 = C C = C C = C 1
+C C ( = O ) O C ( C ) = O . C 1 = C C = N C = C 1 . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] . [Zn] . C C ( = O ) O >> C C C 1 = C C = N C = C 1
+C C O C ( = O ) C C ( C ) = O . Cl . N C ( N ) = O >> C C O C ( = O ) / C = C ( \ C ) N C ( N ) = O
+C C ( C ) ( C ) C C ( C ) ( C ) N . O = [Mn] ( = O ) ( [O-] ) = O ~ [K+] . O = S ( = O ) ( [O-] ) [O-] ~ [Mg+2] . C C ( C ) = O . O >> C C ( C ) ( C ) C C ( C ) ( C ) [N+] ( = O ) [O-]
+C C 1 = C C ( C ) = C C ( C ) = C 1 . O C 1 = C C = C ( O ) C = C 1 . Cl [Ti] ( Cl ) ( Cl ) Cl . Cl C Cl . C O C ( Cl ) Cl . O >> C C 1 = C C ( C ) = C ( C = O ) C ( C ) = C 1
+C C 1 O C ( C ) O C ( C ) O 1 . Br Br . S >> O = C C ( Br ) ( Br ) Br
+O = C N C C C 1 = C C = C C = C 1 . C O C ( C N ) O C . C = O . O = C ( O ) C 1 C C C C C 1 . O = C ( O C ( Cl ) ( Cl ) Cl ) O C ( Cl ) ( Cl ) Cl . C O . Cl C Cl . C C N ( C C ) C C >> C O C ( C N ( C C ( = O ) N C C C 1 = C C = C C = C 1 ) C ( = O ) C 1 C C C C C 1 ) O C
+B 1 C 2 C C C C 1 C C C 2 . C C 1 = C C C 2 C C 1 C 2 ( C ) C . C 1 C C O C 1 >> C C 1 C ( B 2 C 3 C C C C 2 C C C 3 ) C C 2 C [C@@H] 1 C 2 ( C ) C
+C C ( C ) ( C ) [O-] ~ [K+] . Br C 1 = C C = C C = C 1 . C C ( C ) ( C ) O . C S ( C ) = O >> C C ( C ) ( C ) O C 1 = C C = C C = C 1
+O = C ( Cl ) C 1 = C C ( Cl ) = C C = C 1 . C 1 C O C C O 1 . O = S ( = O ) ( O ) O . [OH-] ~ [Na+] . O = S ( = O ) ( [O-] ~ [Mg+2] ) [O-] ~ O ~ O ~ O ~ O ~ O ~ O ~ O . O . O O >> O = C ( O O ) C 1 = C C ( Cl ) = C C = C 1
+N # C C O . C C O C C . O . [OH-] ~ [Na+] . O . O = S ( = O ) ( O ) O >> O = C ( O ) C C O
+C 1 = C O C = C 1 . Br Br . C O . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C 1 = C C = C C = C 1 >> C O C 1 C = C C ( O C ) O 1
+C C O C ( = O ) C = C C 1 = C C = C C = C 1 . Br Br . Cl C ( Cl ) ( Cl ) Cl >> C C O C ( = O ) C ( Br ) C ( Br ) C 1 = C C = C C = C 1
+O = C C 1 = C C = C C = C 1 Cl . C C C C C . C 1 = C C = C C = C 1 . C N ( C ) P ( N ( C ) C ) N ( C ) C . C C O C C >> Cl C 1 = C C = C C = C 1 C 1 O C 1 C 1 = C C = C C = C 1 Cl
+C 1 = C C = C ( O C 2 = C C = C C = C 2 ) C = C 1 . S . Cl [Al] ( Cl ) Cl >> C 1 = C C = C 2 S C 3 = C C = C C = C 3 O C 2 = C 1
+O = C 1 C C C ( [O-] ~ [Ag+] ) = N 1 . Cl C ( Cl ) ( Cl ) Cl . I I . C 1 C O C C O 1 >> O = C 1 C C C ( = O ) N 1 I
+O = C 1 C C ( = O ) N C ( = O ) N 1 . O . O = [Cr] ( = O ) = O . C C ( = O ) O >> O = C 1 N C ( = O ) C ( = O ) C ( = O ~ O ) N 1
+O = C ( C C ( = O ) C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . Cl C ( Cl ) Cl . Cl C ( Cl ) Cl . Br Br >> O = C ( C 1 = C C = C C = C 1 ) C ( Br ) ( Br ) C ( = O ) C 1 = C C = C C = C 1
+C = C C C C C C C C C C C C C C C C C C C . O = S ( = O ) ( O ) O . O = S ( O ) [O-] ~ [Na+] . O . C C C C C C C C [N+] ( C ) ( C C C C C C C C ) C C C C C C C C ~ [Cl-] . Cl C Cl . O = [Mn] ( = O ) ( [O-] ) = O ~ [K+] >> C C C C C C C C C C C C C C C C C C C ( = O ) O
+O = [N+] ( [O-] ) C 1 = C C ( [N+] ( = O ) [O-] ) = C ( S ( = O ) ( = O ) O ) C ( [N+] ( = O ) [O-] ) = C 1 . N C ( = O ) N C N = O . [OH-] ~ [K+] . C C O C ( C ) = O . C C 1 = C C = C C = C 1 C . C O C >> C [O+] ( C ) C ~ O = S ( = O ) ( [O-] ) C 1 = C ( [N+] ( = O ) [O-] ) C = C ( [N+] ( = O ) [O-] ) C = C 1 [N+] ( = O ) [O-]
+[H-] ~ [K+] . N C C C N . C C C C C >> N C C C [N-] ~ [K+]
+O = [N+] ( [O-] ) C 1 = C C = C C = C 1 S S C 1 = C C = C C = C 1 [N+] ( = O ) [O-] . Cl Cl . Cl C ( Cl ) ( Cl ) Cl . I I >> O = [N+] ( [O-] ) C 1 = C C = C C = C 1 S Cl
+C = C C N = C = S . Cl . O . [OH-] ~ [K+] >> C = C C N
+O = C ( O ) C 1 = C ( C ( = O ) O ) C ( [N+] ( = O ) [O-] ) = C C = C 1 . O = C 1 O C ( C 2 = C C = C ( O ) C = C 2 ) ( C 2 = C C = C ( O ) C = C 2 ) C 2 = C C = C C = C 1 2 . C 1 = C C = C 2 C C C C C 2 = C 1 . C 1 = C C = C C = C 1 . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C . O . [OH-] ~ [Na+] . N N ~ O S ( = O ) ( = O ) O >> O = C 1 N N C ( = O ) C 2 = C 1 C = C C = C 2 [N+] ( = O ) [O-]
+C C O C ( = O ) N C . C C O C C . O . O = N [O-] ~ [Na+] . O = [N+] ( [O-] ) O >> C C O C ( = O ) N ( C ) N = O
+N C 1 = C C = C ( C 2 = C C = C ( N ) C = C 2 ) C = C 1 . Cl . O = N [O-] ~ [Na+] >> N # [N+] C 1 = C C = C ( C 2 = C C = C ( [N+] # N ~ [Cl-] ~ [Cl-] ) C = C 2 ) C = C 1 . O
+C C 1 = C C = C C = C 1 C # N . [OH-] ~ [Na+] . O = S ( = O ) ( O ) O . O >> C C 1 = C C = C C = C 1 C ( = O ) O
+C 1 = C C = C ( C N C C O C C O C C N C C 2 = C C = C C = C 2 ) C = C 1 . C C ( C ) = O . C 1 C O C C O 1 . Cl C ( Cl ) Cl . I C C O C C O C C I . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . [Na+] ~ [I-] . C C # N >> C 1 = C C = C ( C N 2 C C O C C O C C N ( C C 3 = C C = C C = C 3 ) C C O C C O C C 2 ) C = C 1
+N # C C C ( = O ) [O-] ~ [Na+] . [OH-] ~ [Na+] . o . C 1 = C C = C C = C 1 . O = C C 1 = C C = C C = C 1 . Cl >> N # C C 1 = C C = C ( O C ( = O ) / C = C / C 2 = C C = C C = C 2 ) C = C 1
+I C ( I ) I . [O-] [As] = O ~ [Na+] . [OH-] ~ [Na+] . [O-2] ~ [O-2] ~ [O-2] ~ [As+3] ~ [As+3] >> I C I
+N N = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . O = [Hg] >> [N-] = [N+] = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C N . C C O C ( = O ) Cl . C C O C C . [OH-] ~ [Na+] . O >> C C O C ( = O ) N C
+[H] [C@@] 1 2 C C C 3 = C [C@@H] ( O ) C C [C@] 3 ( C ) [C@@] 1 ( [H] ) C C [C@] 1 ( C ) [C@@H] ( [C@H] ( C ) C C C C ( C ) C ) C C [C@@] 2 1 [H] . C C 1 = C C = C C = C 1 C . C O C ( C ) ( O C ) N ( C ) C >> [H] [C@@] 1 2 C C [C@] 3 ( C C ( = O ) N ( C ) C ) C = C C C [C@] 3 ( C ) [C@@] 1 ( [H] ) C C [C@] 1 ( C ) [C@@H] ( [C@H] ( C ) C C C C ( C ) C ) C C [C@@] 2 1 [H]
+C C O C ( = O ) C C ( C ) = O . [Na] . C C O . C C O C ( = O ) C Cl >> C C O C ( = O ) C C ( C ( C ) = O ) C ( = O ) O C C
+O C 1 = C C = C C ( O ) = C 1 . [HH] . [Ni] . [OH-] ~ [Na+] . C I . C 1 C O C C O 1 >> C C 1 C ( = O ) C C C C 1 = O
+C C C C C C C = N O . Cl . [OH-] ~ [K+] . [OH-] ~ [K+] . [Na] . C C O >> C C C C C C C N
+C C ( C ) ( C ) O C ( = O ) N 1 C C C C 1 = O . C C 1 = C C = C C = C 1 . [Li+] ~ [B-] ( C C ) ( C C ) C C . C 1 C C O C 1 . O = C ( O C ( = O ) C ( F ) ( F ) F ) C ( F ) ( F ) F . C N ( C ) C 1 = C C = N C = C 1 . C C N ( C ( C ) C ) C ( C ) C >> C O C ( C ) = O
+C # C C 1 = C C = C C = C 1 . N # N . Br Br . [OH-] ~ [Na+] >> Br C # C C 1 = C C = C C = C 1
+C = C ( C ) C Cl . C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) O >> C C ( C ) ( C Cl ) C 1 = C C = C C = C 1
+O = C C 1 = C N C 2 = C C = C C = C 1 2 . [NH4+] ~ [NH4+] ~ O P ( = O ) ( [O-] ) [O-] . C C C [N+] ( = O ) [O-] . C C ( = O ) O >> N # C C 1 = C N C 2 = C C = C C = C 1 2
+C C ( = O ) C 1 = C C = C ( N ) C = C 1 . O = C 1 C = C C ( = O ) C = C 1 . Cl . O = N [O-] ~ [Na+] . O = C ( O ) [O-] ~ [Na+] . O >> C C ( = O ) C 1 = C C = C ( C 2 = C C ( = O ) C = C C 2 = O ) C = C 1
+C 1 = C C = C ( C N C 2 = N N N = N 2 ) C = C 1 . [OH-] ~ [Na+] . [O-] Br ~ [Na+] . O . Cl C Cl >> [C-] # [N+] C C 1 = C C = C C = C 1
+C O C 1 = C ( O C ) C ( = O ) C ( C ) = C C 1 = O . C C C C [Sn] ( C C = C ( C ) C ) ( C C C C ) C C C C . Cl C Cl . Cl C Cl . [SnH4] . [F-] ~ [K+] . C C O C C ~ F B ( F ) F . O ~ O ~ O ~ O ~ O ~ O ~ [Cl-] ~ [Cl-] ~ [Cl-] ~ [Fe+3] >> C O C 1 = C ( O C ) C ( = O ) C ( C C = C ( C ) C ) = C ( C ) C 1 = O
+C = C ( C ) C Br . Br C 1 = C C = C C = C 1 . Cl . [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [C-] # [O+] ~ [Ni] . C 1 = C C = C C = C 1 . C N ( C ) C = O >> C = C ( C ) C C 1 = C C = C C = C 1
+O = C 1 N C ( = O ) C 2 = C C = C C = C 1 2 . C C O . [OH-] ~ [K+] >> O = C 1 [N-] C ( = O ~ [K+] ) C 2 = C C = C C = C 1 2
+C 1 = C C = C ( S S C 2 = C C = C C = C 2 ) C = C 1 . C C ( = O ) O [Pb] ( O C ( C ) = O ) ( O C ( C ) = O ) O C ( C ) = O . Cl C ( Cl ) Cl . C O >> C O S ( = O ) C 1 = C C = C C = C 1
+C C 1 = C C = C ( S ( = O ) ( = O ) N / N = C / C 2 = C C = C C = C 2 ) C = C 1 . C O . C [O-] ~ [Na+] >> [N-] = [N+] = C C 1 = C C = C C = C 1
+O = [N+] ( [O-] ) C 1 = C C = C C = C 1 . O = S ( O ) [O-] ~ [Na+] . Br Br . [Fe] >> O = [N+] ( [O-] ) C 1 = C C ( Br ) = C C = C 1
+C C C C N ( C C C C ) C C Br ~ Br . C C O . N . [OH-] ~ [Na+] . O >> C C C C N ( C C N ) C C C C
+O = C 1 O C ( = O ) C 2 = C C = C C = C 1 2 . O = S ( = O ) ( O ) O . O = [N+] ( [O-] ) O >> O = C ( O ) C 1 = C ( C ( = O ) O ) C = C ( [N+] ( = O ) [O-] ) C = C 1 . O = C ( O ) C 1 = C ( C ( = O ) O ) C ( [N+] ( = O ) [O-] ) = C C = C 1
+N C 1 = C C = C C = C 1 C C O . C O C C O C . C O C C O C . C O C ( C ) ( C ) C . C C O C ( C ) = O . C C O C ( C ) = O . O = S ( Cl ) Cl . [OH-] ~ [Na+] . O = C ( O ) C ( = O ) O ~ O ~ O >> O = C ( O ) C ( = O ) ( O ) ~ C 1 2 = C C = C C = C 1 N C C 2
+C C ( C ) O C 1 O C ( = O ) C ( Cl ) = C 1 Cl . C O . [N-] = [N+] = [N-] ~ [Na+] >> C C ( C ) O C 1 O C ( = O ) C ( Cl ) = C 1 N = [N+] = [N-]
+C O C ( = O ) C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) O . O = [N+] ( [O-] ) O >> C O C ( = O ) C 1 = C C ( [N+] ( = O ) [O-] ) = C C = C 1
+N # C C C 1 = C C = C ( Cl ) C = C 1 . [Na] . C C O . C C O C ( = O ) C C 1 = C C = C C = C 1 . Cl . O >> N # C C ( C ( = O ) C C 1 = C C = C C = C 1 ) C 1 = C C = C ( Cl ) C = C 1
+O N C 1 = C C = C C = C 1 . C C O C C . N . C C C C O N = O >> [NH4+] ~ [O-] [N+] ( = N [O-] ) C 1 = C C = C C = C 1
+C C ( = O ) C = C ( C ) C . [Na] . C O . C C O C ( = O ) C C ( = O ) O C C . C C O . Cl . [OH-] ~ [K+] >> C C 1 ( C ) C C ( = O ) C C ( = O ) C 1
+[OH-] ~ [Na+] . C N C ( = S ) N ~ O S ( = O ) ( = O ) O . O C C Cl >> C S C C O
+N N = C ( N ) ( N ) ~ O C = O . C C O >> N C 1 = N C = N N 1
+C C ( C ) C C C ( = O ) / C = C \ Cl . [Na+] ~ [Cl-] . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] . [OH-] ~ [Na+] . C O >> C O C ( C C ( = O ) C C C ( C ) C ) O C
+[H] [C@] ( C ) ( C Br ) O C ( C ) = O . C C C ( C ) ( C ) [O-] ~ [K+] . C C C C C O >> [H] [C@] 1 ( C ) C O 1
+O = C ( O ) C C ( C C ( = O ) O ) ( O ~ O ) C ( = O ) O >> C = C 1 C C ( = O ) O C 1 = O
+C C O C ( = O ) C C C I . C 1 = C C = C C = C 1 . C C ( = O ) N ( C ) C . C 1 = C C = C C = C 1 . C 1 = C C = C C = C 1 . C 1 = C C = C C = C 1 . [Cu] ~ [Zn] . [Pd] ~ C 1 = C C = C C = C 1 P ( C 1 = C C = C C = C 1 ) C 1 = C C = C ( ~ C 2 = C C = C C = C 2 P ( C 2 = C C = C C = C 2 ) C 2 = C C = C ( ~ C 3 = C C = C C = C 3 P ( C 3 = C C = C C = C 3 ) C 3 = C C = C ( ~ C 4 = C C = C C = C 4 P ( C 4 = C C = C C = C 4 ) C 4 = C C = C C = C 4 ) C = C 3 ) C = C 2 ) C = C 1 . C = C ( C ) C ( = O ) Cl >> C = C ( C ) C ( = O ) C C C C ( = O ) O C C
+C C ( = O ) N C 1 = C C = C C ( C ) = C 1 . N # N . [NH4+] ~ [Cl-] . C C 1 = C C = C ( C ( C ) C ~ C C 2 = C C = C ( C ( C ) C ~ Cl [Ru] Cl ~ Cl [Ru] Cl ) C = C 2 ) C = C 1 . F [P-] ( F ) ( F ) ( F ) ( F ) F ~ [K+] . C C ( = O ) [O-] ~ C C ( = O ) [O-] ~ O ~ [Cu+2] . O . C = C C ( = O ) O C C >> C C O C ( = O ) / C = C / C 1 = C C = C ( C ) C = C 1 N C ( C ) = O
+O = C C 1 = C C = C C = C 1 . [OH-] ~ [K+] . C C # N >> N # C C = C C 1 = C C = C C = C 1
+Br C 1 = C C = C C = C 1 . [Na] ~ [Hg] . C C 1 = C C = C C = C 1 . C C O C ( C ) = O >> C 1 = C C = C ( [Hg] C 2 = C C = C C = C 2 ) C = C 1
+C C ( = O ) O I ( O C ( C ) = O ) C 1 = C C = C C = C 1 . C C O C C . Cl C Cl . O = C ( O ) C ( F ) ( F ) F . C # C C 1 = C C = C C = C 1 >> O = C ( [O-] ) C ( F ) ( F ) F ~ C 1 ( C # C [I+] C 2 = C C = C C = C 2 ) = C C = C C = C 1
+[Fe+2] ~ C 1 = C C = C [CH-] 1 ~ C 1 = C C = C [CH-] 1 . C N ( C ) C N ( C ) C . O = P ( O ) ( O ) O . C C ( = O ) O >> C N ( C ) C C 1 = C [CH-] C = C 1 ~ [CH-] 1 C = C C = C 1 ~ [Fe+2]
+C C C C C C C ( = O ) O . [F-] ~ [Na+] . F S ( F ) ( F ) F >> C C C C C C C ( F ) ( F ) F
+N C C 1 = C C = C C = C 1 . C [Si] ( C ) ( C ) C Cl . [OH-] ~ [Na+] >> C [Si] ( C ) ( C ) C N C C 1 = C C = C C = C 1
+O C 1 ( C 2 = C C = C C = C 2 ) C 2 C C 3 C C ( C 2 ) C C 1 C 3 . Cl C ( Cl ) Cl . [N-] = [N+] = [N-] ~ [Na+] . O = C ( O ) C ( F ) ( F ) F >> [N-] = [N+] = N C 1 ( C 2 = C C = C C = C 2 ) C 2 C C 3 C C ( C 2 ) C C 1 C 3
+[Br-] ~ [Mg+2] ~ C 1 = C [C-] = C C = C 1 . C O B ( O C ) O C . O . C C O C C . O = S ( = O ) ( O ) O >> C 1 = C C = C ( B 2 O B ( C 3 = C C = C C = C 3 ) O B ( C 3 = C C = C C = C 3 ) O 2 ) C = C 1
+C C O C ( = O ) C 1 O C 1 ( C ) C 1 = C C = C C = C 1 . [Na] . C C O . Cl >> C C ( C = O ) C 1 = C C = C C = C 1
+C C [Al] ( C C ) C C . C # N . C 1 = C C = C C = C 1 >> C C [Al] ( C # N ) C C
+C = C C C 1 = C C = C C = C 1 . C C ( C ) = O . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C C ( C ) O C ( C ) C . Cl C 1 = C C = C C = C 1 Cl . O = S ( = O ) ( O ) O >> O = C ( O ) C C ( C / C = C / C 1 = C C = C C = C 1 ) C ( = O ) O
+C C C C O . C 1 = C C = C C = C 1 . C C 1 = C C = C ( S ( = O ) ( = O ) Cl ) C = C 1 . [OH-] ~ [Na+] >> C C C C O S ( = O ) ( = O ) C 1 = C C = C ( C ) C = C 1
+C C C C C C ( O ) C C C ( C ) ( C ) O . O = P ( O ) ( O ) O >> C C C C C C 1 C C C ( C ) ( C ) O 1
+O ~ O ~ O ~ O ~ O ~ O ~ O ~ Cl [Ce] ( Cl ) Cl . [Li+] ~ C C C [CH2-] . O = C 1 C C C C 2 = C C = C C = C 1 2 . C 1 C C O C 1 . C C ( = O ) O . C C O C ( C ) = O >> C C C C C 1 ( O ) C C C C 2 = C C = C C = C 2 1
+C 1 C O 1 . O = S ( = O ) ( [O-] ) [O-] ~ [Na+] ~ [Na+] . Br >> O C C Br
+Cl C ( Cl ) = C ( Cl ) Cl . O . Cl C ( Cl ) Cl . Cl [Al] ( Cl ) Cl >> Cl C ( Cl ) C ( Cl ) ( Cl ) C ( Cl ) ( Cl ) Cl
+C C O C = C ( C # N ) C ( = O ) O C C . N C ( N ) = S . [Na] . C C O >> C C O C ( = O ) C 1 = C N = C ( S ) N = C 1 N . N # C C 1 = C N = C ( S ) N = C 1 O
+C = C C ( = O ) O C . C C O C C . C C O . C C ( = O ) [O-] ~ O ~ O ~ O ~ [Na+] . S >> C O C ( = O ) C C S C C C ( = O ) O C
+C 1 = C C = C 2 C ( = C 1 ) C C 1 = C C = C C = C 1 2 . C C ( = O ) [O-] ~ [K+] . O = [N+] ( [O-] ) O . C C ( = O ) O >> O = [N+] ( [O-] ) C 1 = C C 2 = C ( C = C 1 ) C 1 = C C = C C = C 1 C 2
+[OH-] ~ [Na+] . [Al] ~ [Ni] . O >> [HH] . [Ni] . O = [Al-] = O ~ [Na+]
+O = C 1 C ( O ) = C ( O ) C ( = O ) C ( O ) = C 1 O . C . C C O . Cl [Sn] Cl . Cl >> O C 1 = C ( O ) C ( O ) = C ( O ) C ( O ) = C 1 O
+Cl [Se] ( Cl ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . O . C C O C C . Cl [Al] ( Cl ) Cl . C 1 = C C = C C = C 1 >> [Cl-] ~ C 1 = C C = C C = C 1 [Se+] ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+N C 1 = C C = C C = C 1 . [OH-] ~ [Na+] . C . C C O . O = [As] ( O ) ( O ) O >> N C 1 = C C = C ( [As] ( = O ) ( O ) O ) C = C 1
+O = [As] ( O ) ( O ) C 1 = C C = C ( O ) C = C 1 . [OH-] ~ [Na+] . O = C ( O ) C Cl . Cl >> O = C ( O ) C O C 1 = C C = C ( [As] ( = O ) ( O ) O ) C = C 1
+C O C ( C ) ( C ) O C . C [O-] ~ [Na+] . C C C C O . C C 1 = C C = C ( S ( = O ) ( = O ) O ) C = C 1 . C 1 = C C = C C = C 1 >> C C C C O C ( C ) ( C ) O C C C C
+O = S ( Cl ) Cl . C C C C C C C C C = C C C C C C C C C ( = O ) O >> C C C C C C C C C = C C C C C C C C C ( = O ) Cl
+C C ( O ) C ( = O ) O . O = C ( [O-] ) [O-] ~ [Ca+2] . C C ( C ) O . C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) O >> C C ( C ) O C ( = O ) C ( C ) O
+C = C C C ( C ) ( C ) C = O . Cl [Cu] . Cl [Pd] Cl . C N ( C ) C = O . O . O = O >> C C ( = O ) C C ( C ) ( C ) C = O
+C C 1 C C C [C-] ( C = O ~ [Na+] ) C 1 = O . O = [N+] ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ [N+] ( = O ) ( [O-] ) [O-] ~ O ~ O ~ O ~ O ~ O ~ O ~ O ~ O ~ O ~ [Fe+3] . [K] . N . C C O C C . C C C C Br . [OH-] ~ [Na+] . O >> C C C C C 1 ( C ) C C C C C 1 = O
+C N ( C ) C 1 = C C = C C 2 = C C = C C = C 2 1 . C C O C C . N # C Br >> C N ( C # N ) C 1 = C C = C C 2 = C C = C C = C 2 1
+C 1 = C C 2 C = C C 1 C 2 . N # N . C C ( C ) ( C ) O O C ( = O ) C 1 = C C = C C = C 1 . [Cu] Br . C 1 = C C = C C = C 1 >> C C ( C ) ( C ) O C 1 C 2 C = C C 1 C = C 2
+C C O C ( = O ) C ( Br ) C C . C C O C C . C N ( C ) C = O . O = N [O-] ~ [Na+] . O C 1 = C C ( O ) = C C ( O ) = C 1 >> C C O C ( = O ) C ( C C ) [N+] ( = O ) [O-]
+O = C ( N C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . [NH4+] ~ [OH-] . Cl P ( Cl ) ( Cl ) ( Cl ) Cl . C 1 = C C = N C = C 1 . N C 1 = C C = C C = C 1 >> N = C ( C 1 = C C = C C = C 1 ) N ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C 1 = C \ C C / C = C / C C / C = C / C C / 1 . N N . C C O . O = S ( = O ) ( [O-] ~ [Cu+2] ) [O-] ~ O ~ O ~ O ~ O ~ O >> C 1 = C \ C C C C C C C C C C / 1
+C 1 = C C = C ( [C@H] 2 O [C@H] 2 C 2 = C C = C C = C 2 ) C = C 1 . C 1 = C C = C C = C 1 . C C O C C ~ F B ( F ) F >> O = C C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+O ~ O ~ [O-] [N+] 1 = C C = C C 2 = C C = C C = C 2 1 . C 1 = C C = C C = C 1 >> C 1 = C C = C 2 N = C O C = C C 2 = C 1
+O = C 1 C 2 = C C = C C = C 2 C 2 = C C = C C = C 1 2 . O = [N+] ( [O-] ) O . O = S ( = O ) ( O ) O >> O = C 1 C 2 = C ( C ( [N+] ( = O ) [O-] ) = C C ( [N+] ( = O ) [O-] ) = C 2 ) C 2 = C 1 C = C ( [N+] ( = O ) [O-] ) C = C 2 [N+] ( = O ) [O-]
+C C ( = O ) C = C ( C ) [O-] ~ [Na+] . I I . C C O C C >> C C ( = O ) C ( C ( C ) = O ) C ( C ( C ) = O ) C ( C ) = O
+N C 1 = C C = C C ( C ( F ) ( F ) F ) = C 1 . C O P ( = O ) ( O C ) O C . [OH-] ~ [Na+] >> C N ( C ) C 1 = C C = C C ( C ( F ) ( F ) F ) = C 1
+C C ( = O ) C 1 = C C = C C = C 1 . Cl [Al] ( Cl ) Cl . Br Br . Cl [Al] ( Cl ) Cl . O . Cl >> C C ( = O ) C 1 = C C ( Br ) = C C = C 1
+O C C C Cl . C C ( = O ) O . C C 1 = C C = C ( S ( = O ) ( = O ) O ~ O ) C = C 1 . C 1 = C C = C C = C 1 >> C C ( = O ) O C C C Cl
+C 1 = C C 2 = C 3 C ( = C 1 ) C = C C 1 = C C = C C ( = C 1 3 ) C = C 2 . C 1 = C C = C C = C 1 . C . C C O . Cl C ( Cl ) ( Cl ) Cl . Br Br >> Br C 1 = C 2 C = C C 3 = C C = C C 4 = C 3 C 2 = C ( C = C 1 ) C = C 4
+C C O C ( = O ) C 1 = C ( C ) C ( C ( C ) = O ) = C ( C ) N 1 . [Na] . C C O . N N ~ O >> C C C 1 = C ( C ) N C = C 1 C
+C 1 = C S C = C 1 . O = [N+] ( [O-] ) O . C C ( = O ) O C ( C ) = O . C C ( = O ) O >> O = [N+] ( [O-] ) C 1 = C C = C S 1
+C C 1 ( C ) C 2 C C = C ( C 3 C C 3 ( Br ) Br ) C 1 C 2 . C C C C C C . [Li+] ~ [CH3-] . C C O C C >> C C 1 ( C ) C 2 C C 3 = C C C = C 3 C 1 C 2
+C C 1 = C C = C C = C 1 . [Na+] ~ [Cl-] . C # C . O = S ( = O ) ( [O-] ) [O-] ~ [Hg+2] . O = S ( = O ) ( O ) O >> C C 1 = C C = C ( C ( C ) C 2 = C C = C ( C ) C = C 2 ) C = C 1
+C = [N+] = [N-] . O = C ( Cl ) C C C 1 = C C = C C = C 1 . C C O C C . C C O C C >> [N-] = [N+] = C C ( = O ) C C C 1 = C C = C C = C 1
+[Br-] ~ C 1 = C C = C C = C 1 [P+] ( C C O C 1 = C C = C C = C 1 ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . C C O C ( C ) = O >> C = C [P+] ( C 1 = C C = C C = C 1 ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 ~ [Br-]
+C = C ( Br ) C C 1 C C C C C 1 . Cl . [NH2-] ~ [Na+] >> C = C C ( = O ) C 1 C C C C C 1 . [Na+] ~ [Br-]
+C / C = C / C = O . O = S ( = O ) ( O ) O . O = C ( O ) C C ( = O ) O . C 1 = C C = N C = C 1 >> C / C = C / C = C / C ( = O ) O
+C = C C = O . C C O C ( O C C ) O C C . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . [NH4+] ~ [N+] ( = O ) ( [O-] ) [O-] . C C O >> C = C C ( O C C ) O C C
+[CH3-] ~ [Mg+2] ~ [Br-] . S = P ( Cl ) ( Cl ) Cl . C C O C C . O = S ( = O ) ( O ) O >> C P ( C ) ( = S ) P ( C ) ( C ) = S
+F C 1 = C C = C C = C 1 Br . C 1 C C O C 1 . C 1 C C O C 1 . C O . C C 1 = C C = C ( C ) C = C 1 . O = C 1 C = C C ( = O ) O 1 . [OH-] ~ [Na+] . Cl C ( Cl ) ( Cl ) Cl . C C C C C . [Mg] . C 1 = C C = C 2 C = C 3 C = C C = C C 3 = C C 2 = C 1 >> C 1 = C C = C 2 C ( = C 1 ) C 1 C 3 = C C = C C = C 3 C 2 C 2 = C C = C C = C 2 1
+C C C C C C C C C C C C C C C C C C ( = O ) O . O = S ( = O ) ( O ) O . [OH-] ~ [Na+] . C 1 = C C = C C = C 1 . C C O . C 1 = C C = C C = C 1 . C C O . O = [Mg] >> C C C C C C C C C C C C C C C C C C ( = O ) C C C C C C C C C C C C C C C C C
+C O C 1 = C C = C ( Cl ) C = C 1 . Cl P ( Cl ) ( Cl ) ( Cl ) Cl >> Cl C O C 1 = C C = C ( Cl ) C = C 1
+O = C ( O ) C 1 = C ( C ( = O ) O ) C ( [N+] ( = O ) [O-] ) = C C = C 1 . C C O C C . C C ( = O ) O C ( C ) = O >> O = C 1 O C ( = O ) C 2 = C 1 C = C C = C 2 [N+] ( = O ) [O-]
+Cl [Cu] . [C-] # N ~ [Na+] . O . O >> [C-] # N ~ [Cu+]
+C C O C ( = O ) C Cl . C N ( C ) C . N N ~ O . C C O >> C [N+] ( C ) ( C ) C C ( N N ) = O ~ [Cl-]
+C # C C C C C . B 1 O C 2 = C C = C C = C 2 O 1 >> C C C C C = C B 1 O C 2 = C C = C C = C 2 O 1
+O = C ( O ) C C C C C C C C ( = O ) O . C C O C C . O = [Si] = O . N >> N # C C C C C C C C C # N
+O = C C 1 = C C = C C = C 1 . C C O . [C-] # N ~ [Na+] >> O = C ( C 1 = C C = C C = C 1 ) C ( O ) C 1 = C C = C C = C 1
+C C 1 2 C C C ( C C 1 = O ) C 2 ( C ) C . O = S ( = O ) ( O ) O . C C ( = O ) O C ( C ) = O >> C C 1 ( C ) C 2 C C C 1 ( C S ( = O ) ( = O ) O ) C ( = O ) C 2
+O = C 1 C = C [C@] 2 ( S ( = O ) ( = O ) C 3 = C C = C C = C 3 ) C C C [C@@H] 2 C 1 . C C ( = O ) O . [Zn] >> O = C 1 C C = C 2 C C C C 2 C 1
+C C 1 = C C = C C = C 1 N C = O . Cl . C C ( C ) ( C ) O . [K] . O >> C 1 = C C = C 2 N C = C C 2 = C 1
+C ( = C 1 C C C C C C C 1 ) N 1 C C C C C 1 . C C ( = O ) O . C C O . C = C C ( C ) = O . C C ( = O ) [O-] ~ [Na+] . O . [OH-] ~ [Na+] >> O = C 1 C = C C 2 ( C C C C C C C 2 ) C C 1
+[Li] C = C C C / C = C ( \ C ) C C C = C ( C ) C . [Na+] ~ [Cl-] . C = O . O >> C O C ( = O ) / C = C ( \ C ) C C / C = C ( \ C ) C C [C@H] 1 O C 1 ( C ) C
+N C 1 = C C = C C = C 1 Br . Cl . O = N [O-] ~ [Na+] . [K+] ~ [I-] >> Br C 1 = C C = C C = C 1 I
+C C ( C ) = O . [C-] # N ~ [Na+] . O . O = S ( = O ) ( O ) O >> C C ( C ) ( O ) C # N
+C C C C C C C C C C C C C C C C C C ( = O ) O C C . C C O C C . C C O . C C O C ( = O ) C ( = O ) O C C . [Na] . C C ( = O ) O . O >> C C C C C C C C C C C C C C C C C ( C ( = O ) O C C ) C ( = O ) O C C
+C = O . C C ( = O ) O . [NH4+] ~ [Cl-] . [C-] # N ~ [Na+] >> C = N C C # N
+C 1 = C C C C = C 1 . Cl [Hg] Cl . O = S ( [O-] ~ [Na+] ) C 1 = C C = C C = C 1 . C S ( C ) = O . O >> O = S ( = O ) ( C 1 = C C = C C = C 1 ) [C@H] 1 C = C C C [C@@H] 1 [Hg] Cl
+O = C C 1 = C C = C C = C 1 . C C ( C ) = O . Cl . [OH-] ~ [Na+] >> C C ( = O ) / C = C / C 1 = C C = C C = C 1
+C C 1 ( C ) C 2 C C C 1 3 C S ( = O ) ( = O ) N = C 3 C 2 . C 1 C C O C 1 . Cl . C C O . [H-] ~ [H-] ~ [H-] ~ [H-] ~ [Li+] ~ [Al+3] >> C C 1 ( C ) C 2 C C C 1 3 C S ( = O ) ( = O ) N C 3 C 2
+C 1 = C C = C 2 N C = C C 2 = C 1 . C N ( C ) C = O . O = P ( Cl ) ( Cl ) Cl . [OH-] ~ [Na+] . O >> O = C C 1 = C N C 2 = C C = C C = C 1 2
+O = C ( Cl ) C 1 = C C = C C = C 1 . [F-] ~ [Na+] . O = S ( = O ) ( [O-] ) [O-] ~ [Na+] ~ [Na+] . F >> O = C ( F ) C 1 = C C = C C = C 1
+C C O C C ~ F B ( F ) F . C C O C C . Cl C C 1 C O 1 >> C C [O+] ( C C ) C C ~ F [B-] ( F ) ( F ) F . C C O C ( Cl ) C O B ( O C ( Cl ) O C C ) O C ( Cl ) O C C
+C C ( = O ) N C 1 = C C = C ( N ) C = C 1 . O = B O [O-] ~ O ~ O ~ O ~ O ~ [Na+] . O B ( O ) O . C C ( = O ) O >> C C ( = O ) N C 1 = C C = C ( N = N C 2 = C C = C ( N C ( C ) = O ) C = C 2 ) C = C 1
+C O C 1 O C ( C O ) C ( O ) C ( O ) C 1 O . O . O = S ( = O ) ( O ) O . C C ( = O ) O >> O C C 1 O C ( O ) C ( O ) C ( O ) C 1 O . C O
+O = C ( O ) C C ( O ) C ( = O ) O . O = S ( = O ) ( O ) O >> O = C 1 C = C C ( C ( = O ) O ) = C O 1
+C C # C C . O . Cl [Al] ( Cl ) Cl . C 1 = C C = C C = C 1 >> C C 1 = C ( C ) C 2 ( C ) C ( C ) = C ( C ) C 1 2 C
+C C ( = O ) N C 1 = C C = C ( S ( = O ) ( = O ) Cl ) C = C 1 . O = S ( [O-] ~ O ~ O ~ O ~ O ~ O ~ O ~ O ) [O-] ~ [Na+] ~ [Na+] . [OH-] ~ [Na+] . O = S ( = O ) ( O ) O >> C C ( = O ) N C 1 = C C = C ( S ( = O ) O ) C = C 1
+C O . [Cl-] ~ [Cl-] ~ [Ca+2] . O = [N+] ( [O-] ) O . O = S ( = O ) ( O ) O >> C O [N+] ( = O ) [O-]
+O C ( C Cl ) C Cl . O = [Cr] ( = O ) ( [O-] ) O [Cr] ( = O ) ( = O ) [O-] ~ [Na+] ~ [Na+] . O . O = S ( = O ) ( O ) O >> O = C ( C Cl ) C Cl
+C C C C Cl . I I . [Mg] . C 1 C C O C 1 >> C C C [CH2-] ~ [Mg+2] ~ [Cl-]
+C C O C ( = O ) C ( C ( = O ) O C C ) C ( C ) C C . [OH-] ~ [K+] . O >> C C C ( C ) C ( C ( = O ) [O-] ) C ( = O ) [O-] ~ [K+] ~ [K+]
+C 1 = C C = C ( C N 2 C C O C C O C C N ( C C 3 = C C = C C = C 3 ) C C O C C O C C 2 ) C = C 1 . [Pd] . C C O >> C 1 C O C C O C C N C C O C C O C C N 1
+N # C C C C 1 = C C = C C = C 1 Cl . C C O C C . [NH4+] ~ [N+] ( = O ) ( [O-] ) [O-] . O . N . [NH2-] ~ [Na+] >> N # C C 1 = C 2 C = C C = C C 2 = C 1
+C C ( C ) Br . N # C [S-] ~ [Na+] . C C O . O >> C C ( C ) S C # N
+C N = C C 1 = C C = C C = C 1 . C C O C C . Cl C C 1 = C C = C C = C 1 . [Mg] . Cl . O >> C N C ( C C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C = C C ( = C ) C C C = C ( C ) C . O . C C N C C . [Li] >> C C N ( C C ) C / C = C ( \ C ) C C C = C ( C ) C
+O C C Cl . [Na+] ~ [Na+] ~ [S-2] . O >> O C C S C C O
+O C ( O ) C ( Cl ) ( Cl ) Cl . [C-] # N ~ [K+] . [NH4+] ~ [OH-] . C C O C C >> N C ( = O ) C ( Cl ) Cl
+C C ( C ) C O . O = C ( [O-] ) [O-] ~ [K+] ~ [K+] . Br P ( Br ) Br >> C C ( C ) C Br
+C O C ( = O ) C C C C C ( = O ) O . Cl C Cl . C 1 C C O C 1 . C C ( C ) = C ( Cl ) N ( C ) C . [Cu+] ~ [I-] . C C C [CH2-] ~ [Mg+2] ~ [Br-] >> C C C C C ( = O ) C C C C C ( = O ) O C
+[O-2] ~ [O-2] ~ [O-2] ~ [As+3] ~ [As+3] . O = S ( = O ) ( [O-] ) [O-] ~ [Cu+2] . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] >> [O-] [As] ( [O-] ) [O-] ~ [Na+] ~ [Na+] ~ [Na+]
+C C 1 = C ( [N+] ( = O ) [O-] ) C = C ( [N+] ( = O ) [O-] ) C = C 1 [N+] ( = O ) [O-] . [OH-] ~ [Na+] . C C ( = O ) O . O = S ( = O ) ( O ) O . O = [Cr] ( = O ) ( [O-] ) O [Cr] ( = O ) ( = O ) [O-] ~ [Na+] ~ [Na+] >> O = C ( O ) C 1 = C ( [N+] ( = O ) [O-] ) C = C ( [N+] ( = O ) [O-] ) C = C 1 [N+] ( = O ) [O-]
+C C C C O . O = S ( Cl ) Cl >> C C C C O S ( = O ) O C C C C
+C C ( C C O ) C C O . O = [Cr] O [Cr] = O ~ O = [Cu] ~ O = [Cu] >> C C 1 C C O C ( = O ) C 1
+S C 1 = C C = C C = C 1 . C C O . [Na] . Br C C Br >> C = C S C 1 = C C = C C = C 1
+C 1 = C S C = C 1 . C N ( C = O ) C 1 = C C = C C = C 1 . O = P ( Cl ) ( Cl ) Cl >> O = C C 1 = C C = C S 1
+C # C C ( = O ) O C . O = C 1 C C C ( = O ) N 1 Br . O = [N+] ( [O-] ) [O-] ~ [Ag+] . C C ( C ) = O >> C O C ( = O ) C # C Br
+O = [N+] ( [O-] ) C 1 = C C = C C = C 1 . [Na+] ~ [Cl-] . [Zn] . O . [NH4+] ~ [Cl-] >> O N C 1 = C C = C C = C 1
+C C 1 = C C C 2 C C 1 C 2 ( C ) C . C C O C C . C 1 C C O C 1 . B ~ C S C >> C C 1 C ( B C 2 C C 3 C C ( C 2 C ) C 3 ( C ) C ) C C 2 C C 1 C 2 ( C ) C
+C C C C C C C C / C = C \ C C C C C C C C ( = O ) O . C C O . O O . O = C O . [OH-] ~ [Na+] . Cl >> C C C C C C C C C ( O ) C ( O ) C C C C C C C C ( = O ) O
+C 1 = C C = C 2 C = C C = C C 2 = C 1 . C C O . [OH-] ~ [Na+] . O = [Mn] ( = O ) ( [O-] ) = O ~ [K+] . O = S ( O ) [O-] ~ [Na+] . Cl . O >> O = C C 1 = C C = C C = C 1 C ( = O ) O
+C O C ( = O ) C C C C C ( = O ) Cl . C C N ( C C ) C C . C 1 = C C = C C = C 1 . [OH-] ~ [K+] . Cl >> O = C ( O ) C C C C C ( = O ) C C C C C ( = O ) O
+C C 1 C ( B 2 C 3 C C C C 2 C C C 3 ) C C 2 C [C@@H] 1 C 2 ( C ) C . C # C C ( = O ) C C C C C >> [H] [C@] ( C # C ) ( C C C C C ) O B 1 C 2 C C C C 1 C C C 2
+O = C 1 C = C ( O ) C C C 1 . C C O . C C 1 = C C = C ( S ( = O ) ( = O ) O ~ O ) C = C 1 . C 1 = C C = C C = C 1 >> C C O C 1 = C C ( = O ) C C C 1
+O = C ( O ) C ( = C C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . C 1 = C C = C 2 N = C C = C C 2 = C 1 . O = [Cr] O [Cr] = O ~ O = [Cu] ~ O = [Cu] >> C 1 = C C = C ( / C = C \ C 2 = C C = C C = C 2 ) C = C 1
+C O . C = O . Cl >> Cl C O C Cl
+C S C C C ( N C ( = O ) C 1 = C C = C C = C 1 C ( = O ) O ) ( C ( = O ) O ) C ( = O ) O . C 1 = C C = N C = C 1 . C C O . C C O C C . O . Cl >> C S C C [C@H] ( N ) C ( = O ) O
+N = C ( N ~ Cl ) C 1 = C C = C C = C 1 . [Na+] ~ [Cl-] . [Na+] ~ [Cl-] . C C O C C . C C O C C . C C C C C C . C S ( C ) = O . [O-] Cl ~ [Na+] . O . C 1 = C C = C C = C 1 . C / C = C / C 1 = C C = C C = C 1 . C 1 C C O C 1 . C C ( C ) ( C ) [O-] ~ [K+] >> C C 1 C ( C 2 = C C = C C = C 2 ) = C 1 C 1 = C C = C C = C 1
+C 1 = C S C = C 1 . C C C C C . C 1 C C O C 1 . [Li+] ~ C C C [CH2-] . S . O = S ( = O ) ( O ) O >> S C 1 = C C = C S 1
+O = C ( Cl ) / C = C / C ( = O ) Cl . C C O . C 1 = C C = C C = C 1 . Cl [Al] ( Cl ) Cl >> O = C ( / C = C / C ( = O ) C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+O C 1 = C ( C 2 = C ( O ) C = C C 3 = C 2 C C C C 3 ) C 2 = C ( C = C 1 ) C C C C 2 . C = O . C 1 C C N C 1 . C C O >> O C 1 = C ( C N 2 C C C C 2 ) C = C 2 C C C C C 2 = C 1 C 1 = C 2 C C C C C 2 = C C ( C N 2 C C C C 2 ) = C 1 O
+C C O C ( = O ) C N ~ Cl . O = C ( O ) [O-] ~ [Na+] . Cl C Cl . O . O = N [O-] ~ [Na+] . O = S ( = O ) ( O ) O >> C C O C ( = O ) C = [N+] = [N-]
+C 1 = C C = C ( N 2 C C N ( C 3 = C C = C C = C 3 ) C 2 = C 2 N ( C 3 = C C = C C = C 3 ) C C N 2 C 2 = C C = C C = C 2 ) C = C 1 . C C ( = O ) N C 1 = C C ( O ) = C C = C 1 . C C ( C ) O . Cl C 1 = C C = C C = C 1 >> C C ( = O ) N C 1 = C ( C 2 N ( C 3 = C C = C C = C 3 ) C C N 2 C 2 = C C = C C = C 2 ) C = C ( C 2 N ( C 3 = C C = C C = C 3 ) C C N 2 C 2 = C C = C C = C 2 ) C ( O ) = C 1
+O C C 1 = C C = C C = C 1 . C C C C C . [Cl-] ~ [Cl-] ~ [Ca+2] . C = O . Cl >> Cl C O C C 1 = C C = C C = C 1
+C = C S C 1 = C C = C C = C 1 . C C O C C . C C ( = O ) O . O O >> C = C S ( = O ) ( = O ) C 1 = C C = C C = C 1
+O = C 1 C 2 = C C = C C = C 2 C ( = O ) C 2 = C 1 C = C C = C 2 S ( = O ) ( = O ) [O-] ~ [K+] . Cl . O = Cl ( [O-] ) = O ~ [Na+] >> O = C 1 C 2 = C C = C C = C 2 C ( = O ) C 2 = C 1 C = C C = C 2 Cl
+N # C C C C Cl . [OH-] ~ [Na+] . O = S ( = O ) ( O ) O . O >> O = C ( O ) C 1 C C 1
+O = [N+] ( [O-] ) C 1 = C C 2 = C ( C = C 1 ) C 1 = C C = C C = C 1 C 2 . N N . C C O . C ~ [Pd] >> N C 1 = C C 2 = C ( C = C 1 ) C 1 = C C = C C = C 1 C 2
+O C C 1 = C C = C O 1 . N C ( N ) = S . Cl . O . [OH-] ~ [Na+] >> S C C 1 = C C = C O 1
+Cl C C 1 = C C = C C = C 1 . C 1 = C C = C C = C 1 . [Al] ~ [Hg] >> C 1 = C C = C ( C C 2 = C C = C C = C 2 ) C = C 1
+C 1 = C C = C 2 C = C 3 C = C C = C C 3 = C C 2 = C 1 . C 1 = C C = C C = C 1 . C C ( = O ) Cl . Cl [Al] ( Cl ) Cl >> C C ( = O ) C 1 = C 2 C = C C = C C 2 = C C 2 = C C = C C = C 2 1
+O = C ( O ) C C ( O ) ( C C ( = O ) O ) C ( = O ) O . C C O C ( C ) = O . O = S ( = O ) ( O ) O >> O = C ( O ) C C ( = O ) C C ( = O ) O
+Cl C 1 = C C = C ( C ( C 2 = C C = C ( Cl ) C = C 2 ) C ( Cl ) ( Cl ) Cl ) C = C 1 . O C C O C C O . [OH-] ~ [K+] . O = S ( = O ) ( O ) O >> O = C ( O ) C ( C 1 = C C = C ( Cl ) C = C 1 ) C 1 = C C = C ( Cl ) C = C 1
+O N = C 1 C C C C C 1 . [OH-] ~ [K+] >> O = C 1 C C C C C N 1
+C C C C C ( C C ) C ( N ) = O . [OH-] ~ [K+] . O = S ( Cl ) Cl . C 1 = C C = C C = C 1 >> C C C C C ( C # N ) C C
+C O C ( C O ) ( O C ) C 1 = C C = C C = C 1 . Cl C Cl . O = S ( = O ) ( O ) O >> O = C ( C O ) C 1 = C C = C C = C 1
+C 1 = C O C C C 1 . [HH] . [Ni] . C C O C C >> C 1 C C O C C 1
+O = C C 1 = C C = C C = C 1 . O = C ( O ) C C 1 = C C = C C = C 1 . C C O . C . C C N ( C C ) C C . C C ( = O ) O C ( C ) = O >> O = C ( O ) / C ( = C / C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+C O C ( = O ) C C C ( C ) ( C ) [N+] ( = O ) [O-] . [Ni] . [HH] . C C O >> C C 1 ( C ) C C C ( = O ) N 1
+C C 1 = C C = C ( S ( = O ) [O-] ~ [Na+] ) C = C 1 . O = C ( O ) [O-] ~ [Na+] . C 1 = C C = C C = C 1 . C O S ( = O ) ( = O ) O C >> C C 1 = C C = C ( S ( C ) ( = O ) = O ) C = C 1
+C C 1 = C ( C ) C ( [N+] ( = O ) [O-] ) = C ( C ) C ( C ) = C 1 [N+] ( = O ) [O-] . C C ( = O ) O . Cl [Sn] Cl . Cl >> C C 1 = C ( C ) C ( N ) = C ( C ~ C C 2 = C ( N ) C ( C ) = C ( C ) C ( N ) = C 2 C ~ Cl ~ Cl ~ Cl ~ Cl ~ Cl [Sn] ( Cl ) ( Cl ) Cl ) C ( C ) = C 1 N
+C C ( = O ) C C ( = O ) N C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) O >> C C 1 = C C ( = O ) N C 2 = C C = C C = C 1 2
+C C 1 = C C = C ( S ( = O ) ( = O ) [O-] ~ [Na+] ) C = C 1 . O = S ( = O ) ( O ) O . [OH-] ~ [Na+] . [OH-] ~ [K+] >> C C 1 = C C = C ( O ) C = C 1
+C N 1 C C C C 1 C 1 = C N = C C = C 1 . O = [N+] ( [O-] ) O >> O = C ( O ~ [N+] ( = O ) ( [O-] ) O ) C 1 = C N = C C = C 1
+C C ( C ) ( C ) C C ( C ) ( C ) N ( O C ( C ) ( C ) C ) C ( C ) ( C ) C . C C C C C C . C 1 C C O C 1 . C 1 = C C = C 2 C = C C = C C 2 = C 1 . [Na] >> C C ( C ) ( C ) N C ( C ) ( C ) C ( C ) ( C ) C
+N C ( = O ) C Cl . O = C ( Cl ) C ( = O ) Cl . Cl C C Cl >> O = C = N C ( = O ) C Cl
+C 1 = C C C C C 1 . O = S ( [O-] ) [O-] ~ [Na+] ~ [Na+] . [Na+] ~ [Cl-] . C O . O = S ( = O ) ( [O-] ) [O-] ~ [Mg+2] . Cl C ( Cl ) Cl . O = [Os] ( = O ) ( = O ) = O . C C 1 = C C = C ( S ( = O ) ( = O ) [N-] Cl ~ O ~ O ~ O ~ [Na+] ) C = C 1 . C C [N+] ( C C ) ( C C ) C C 1 = C C = C C = C 1 ~ [Cl-] . O >> C C 1 = C C = C ( S ( = O ) ( = O ) N [C@H] 2 C C C C [C@H] 2 O ) C = C 1
+C C ( C ) = O . C C O C ( = O ) C ( = O ) O C C . [Na] . C C [O-] ~ [Na+] . C C O >> C C O C ( = O ) C C ( = O ) C C ( = O ) O C C
+O = C C 1 C C C C C C C 1 . C 1 C C N C C 1 . C C 1 = C C = C C = C 1 >> C ( = C 1 C C C C C C C 1 ) N 1 C C C C C 1
+C C ( C ) = C C C / C ( C ) = C / C Cl . [Li+] ~ C C C [CH2-] . C C O C C . C C C C C C . C C O C C . [Na+] ~ [Cl-] . [Na+] ~ [Cl-] . O >> C C ( = O ) C C / C = C ( \ C ) C C C = C ( C ) C
+C C O C C ( = O ) O . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . C C O . Cl >> C C O C C ( = O ) O C C
+O = C 1 C = C 2 C C C C C 2 C C 1 . C = C C ( = C ) C . C C C C C C . N . [Li] . C C ( C ) ( C ) O . C O C ( = O ) C # N . C C O C C >> C O C ( = O ) [C@@H] 1 C ( = O ) C C [C@@H] 2 C C C C [C@H] 2 1
+O = C O C 1 C 2 = C C = C C = C 2 C C 1 O . O = S ( = O ) ( O ) O >> O = C 1 C C 2 = C C = C C = C 2 C 1
+O C 1 C 2 C C 3 C ( C 2 ) C 1 3 . O = S ( O ) [O-] ~ [Na+] . O = [Cr] ( = O ) = O . O = S ( = O ) ( O ) O . C C ( C ) = O . O >> O = C 1 C 2 C C 3 C ( C 2 ) C 1 3
+C C C C O . O = [Cr] ( = O ) ( [O-] ) O [Cr] ( = O ) ( = O ) [O-] ~ [Na+] ~ [Na+] . O = S ( = O ) ( O ) O . O >> C C C C O C ( = O ) C C C
+C 1 C C N C C 1 . [Na] . C 1 = C C = N C = C 1 . C O . C = C >> C C N 1 C C C C C 1
+O = [N+] ( [O-] ) / C = C / C 1 = C C = C C = C 1 . C C C = O . Cl C Cl . C C 1 = C C = C C = C 1 . O = [N+] ( [O-] ) C 1 = C C = C ( O ) C = C 1 . C [Si] ( C ) ( C ) O C ( C 1 = C C = C C = C 1 ) ( C 1 = C C = C C = C 1 ) [C@@H] 1 C C C N 1 . [BH4-] ~ [Na+] . C O >> O = [N+] ( [O-] ) C [C@H] ( C 1 = C C = C C = C 1 ) [C@H] ( C O ) C 1 = C C = C C = C 1
+C N ( C ( N ) = S ) C 1 = C C = C C 2 = C C = C C = C 2 1 . C C ( = O ) O . Br Br . N . O >> C N 1 C ( = N ) S C 2 = C 1 C 1 = C C = C C = C 1 C = C 2
+C C C C O . Cl [Zn] Cl . Cl >> C C C C Cl
+C O C 1 = C C = C ( C ( = O ) C C ( = O ) C C ( = O ) C 2 = C C = C C = C 2 ) C = C 1 . O = S ( = O ) ( O ) O >> C O C 1 = C C = C ( C 2 = C C ( = O ) C = C ( C 3 = C C = C C = C 3 ) O 2 ) C = C 1
+C N C ( C C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . C C O C C . Cl >> C N C ( C C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 ~ Cl
+N N C 1 = C C = C C = C 1 . C C O C ( = O ) C C # N . C C O . [Na] . C C ( = O ) O >> N C 1 = N N ( C 2 = C C = C C = C 2 ) C ( = O ) C 1
+C C Br . [Mg] . Cl [Sn] ( Cl ) ( Cl ) Cl . [Br-] . C C O C C >> C C [Sn] ( C C ) ( C C ) C C
+C = C C ( = C ) C . O = S = O . C O . O C 1 = C C = C ( O ) C = C 1 >> C C 1 = C C S ( = O ) ( = O ) C 1
+C 1 = C C = C ( [Se] C 2 = C C = C C = C 2 ) C = C 1 . O = [N+] ( [O-] ) O . Cl >> Cl [Se] ( Cl ) ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+O = C C 1 = C C = C C = C 1 . N C 1 = N N N = N 1 . C . C C N ( C C ) C C . C O . [Pd] >> C 1 = C C = C ( C N C 2 = N N N = N 2 ) C = C 1
+O = C 1 O [Hg] c 2 c 1 c c c c 2 [N+] ( = O ) [O-] . [OH-] ~ [Na+] . Cl . C C ( = O ) O . [Na+] ~ [Br-] . Br Br >> O = C ( O ) C 1 = C ( Br ) C ( [N+] ( = O ) [O-] ) = C C = C 1
+C 1 = C C C = C 1 . O . C = O >> C 1 = C C = C ( C N 2 C C 3 C C = C 2 C 3 ) C = C 1
+[CH2-] C 1 = C C = C C = C 1 ~ [Mg+2] ~ [Cl-] . C C O S ( = O ) ( = O ) O C C >> C C C C 1 = C C = C C = C 1
+C C O C ( = O ) C C C C C C C C C ( = O ) O C C . C 1 = C C = C C = C 1 . [Na] . C C O >> O C C C C C C C C C C O
+C C C C O . O = S ( = O ) ( O ) O . O = N [O-] ~ [Na+] >> C C C C O N = O
+C C C C C C C = O . N O ~ Cl . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . O >> C C C C C C C = N O
+O = C ( C 1 = C C = C C = C 1 ) C ( O ) C 1 = C C = C C = C 1 . N C ( N ) = O . C C O C C . C C O C C . C C ( = O ) O >> O = C 1 N C ( C 2 = C C = C C = C 2 ) = C ( C 2 = C C = C C = C 2 ) N 1
+C C # [C-] ~ [Na+] . O = C = O . C 1 C C O C 1 . C C O C C . Cl . O >> C C # C C ( = O ) O
+C O C 1 = C ( O C ) C = C ( / C = N / O ) C = C 1 . C C ( = O ) O C ( C ) = O . O >> C O C 1 = C ( O C ) C = C ( C # N ) C = C 1
+Cl C C 1 = C C = C C = C 1 . O = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1 . I I . [Mg] . C C O C C . O . O = S ( = O ) ( O ) O >> C C ( C 1 = C C = C C = C 1 ) = C ( C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+O = [N+] ( [O-] ) C 1 = C C = C ( C Cl ) C = C 1 . C O . C C ( = O ) O . O = C [O-] ~ [Na+] >> C C ( = O ) O C C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1
+C C O C ( C ) = O . [Na] . C C ( = O ) O >> C C O C ( = O ) C C ( C ) = O . C C ( = O ) [O-] ~ [Na+]
+C C ( = O ) O C [C@H] 1 O [C@@H] ( O [C@H] 2 [C@H] ( O C ( C ) = O ) [C@@H] ( O C ( C ) = O ) [C@@H] ( O C ( C ) = O ) O [C@@H] 2 C O C ( C ) = O ) [C@H] ( O C ( C ) = O ) [C@@H] ( O C ( C ) = O ) [C@@H] 1 O C ( C ) = O . C O . [Na] >> O C [C@H] 1 O [C@@H] ( O [C@H] 2 [C@H] ( O ) [C@@H] ( O ) [C@H] ( O ) O [C@@H] 2 C O ) [C@H] ( O ) [C@@H] ( O ) [C@@H] 1 O
+C C ( = O ) C 1 = C C = C C = C 1 . C 1 C O C C O 1 . O = [Se] = O . O >> O = C C ( = O ) C 1 = C C = C C = C 1
+O = C ( C 1 = C C = C C = C 1 ) C ( Br ) C ( Br ) C 1 = C C = C C = C 1 . C O . [Na] . Cl >> O = C ( C C ( = O ) C 1 = C C = C C = C 1 ) C 1 = C C = C C = C 1
+[C-] # [N+] C C ( = O ) O C C . Cl C Cl . C S ( C ) = O . O = C ( O C ( = O ) C ( F ) ( F ) F ) C ( F ) ( F ) F >> C C O C ( = O ) C N = C = O
+Cl [Al] ( Cl ) Cl . Cl P ( Cl ) Cl . Cl C ( Cl ) ( Cl ) Cl . Cl C Cl . O >> O = P ( Cl ) ( Cl ) C ( Cl ) ( Cl ) Cl
+Br C C Br . C C O . O = S ( [O-] ) [O-] ~ [Na+] ~ [Na+] >> O = S ( = O ) ( C C Br ) [O-] ~ [Na+]
+C 1 = C C = C ( C = C ( C 2 = C C = C C = C 2 ) C 2 = C C = C C = C 2 ) C = C 1 . I I . C 1 C C C C C 1 >> C 1 = C C = C ( C 2 = C C 3 = C C = C C = C 3 C 3 = C C = C C = C 2 3 ) C = C 1
+O C C C C C C C C C C O . Br >> Br C C C C C C C C C C Br
+O = C ( [O-] ) C C ( = O ) [O-] ~ [Ca+2] . Cl . C C O C C >> O = C ( O ) C C ( = O ) O
+C C ( C ) ( O ) C ( C ) ( C ) O . O = S ( = O ) ( O ) O >> C C ( = O ) C ( C ) ( C ) C
+O C 1 = C C = C ( Cl ) C 2 = C C = C C = C 1 2 . O = P ( [O-] ) ( O ) [O-] ~ [K+] ~ [K+] . C C O C ( C ) = O . C C 1 = C C = C C = C 1 . O = S ( = O ) ( O ) C ( F ) ( F ) F . C = C C ( = O ) O >> O = C 1 C C O C 2 = C 1 C = C ( Cl ) C 1 = C C = C C = C 1 2
+C C 1 = C C = C O 1 . [OH-] ~ [Na+] . [OH-] ~ [Na+] . C N C . C C ( = O ) O . C = O . O >> C C 1 = C C = C ( C N ( C ) C ) O 1
+C C ( = O ) C C ( C ) ( C ) C = O . [OH-] ~ [K+] . C 1 C C O C 1 . C C O C C >> C C 1 ( C ) C = C C ( = O ) C 1
+O C C S . C = C C # N >> N # C C C S C C O
+N # C C ( Br ) ( C # N ) Br ~ [K+] ~ [Br-] . [Cu] . C 1 = C C = C C = C 1 >> N # C C ( C # N ) = C ( C # N ) C # N
+[Cl-] ~ N # [N+] C 1 = C C = C C = C 1 . O = S ( = O ) ( [O-] ~ [Cu+2] ) [O-] ~ [Na+] ~ [Na+] ~ [Na+] ~ [O-] [As] ( [O-] ) [O-] >> O = [As] ( [O-] ) ( [O-] ~ [Na+] ~ [Na+] ) C 1 = C C = C C = C 1
+N # C [S-] ~ [NH4+] . [NH4+] ~ [NH4+] ~ [O-] [Cr] ( = O ) ( = O ) O [Cr] ( = O ) ( = O ) [O-] . O >> N # C [S-] ~ C ( # N ) [S-] ~ C ( # N ) [S-] ~ C ( # N ) [S-] ~ [NH4+] ~ N ~ N ~ [Cr+3] ~ O
+N C C O S ( = O ) ( = O ) O . [OH-] ~ [K+] . [OH-] ~ [K+] . [OH-] ~ [K+] . [OH-] ~ [Na+] >> C 1 C N 1
+N # C C C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1 . O = S ( = O ) ( O ) O . O >> O = C ( O ) C C 1 = C C = C ( [N+] ( = O ) [O-] ) C = C 1
+O = C ( O ) C C C C C ( = O ) O . [OH-] ~ [OH-] ~ [Ba+2] >> O = C 1 C C C C 1
+Br Br . [C-] # N ~ [Na+] . O >> N # C Br . [Na+] ~ [Br-]
+C = C ( C ) C 1 C C = C ( C ) C C 1 . [OH-] ~ [Na+] . [Na+] ~ [Cl-] . O C 1 = C C = C C = C 1 . C O . O = S ( = O ) ( O ) O >> C = C ( C ) C 1 C C C ( C ) ( O C ) C C 1
+C C 1 = C N C ( C ) = C 1 . [NH4+] ~ [Cl-] . C C Br . C C O C C . [Mg] . C C O C ( = O ) Cl >> C C O C ( = O ) C 1 = C ( C ) C = C ( C ) N 1
+O = C 1 C C C C C C C C C 1 O . [Na+] ~ [Cl-] . [Zn] . Cl . C C ( = O ) O >> O = C 1 C C C C C C C C C 1
+C C O C ( = O ) C C ( C ) = O . O = N [O-] ~ [Na+] . C C ( = O ) O . [Zn] . C C ( = O ) O . O >> C C O C ( = O ) C 1 = C ( C ) C ( C ( = O ) O C C ) = C ( C ) N 1
+O = C 1 [N-] C ( = O ~ [K+] ) C 2 = C C = C C = C 1 2 . C 1 = C C = C C = C 1 . C C O C C . C C O C ( = O ) C ( Br ) C ( = O ) O C C >> C C O C ( = O ) C ( C ( = O ) O C C ) N 1 C ( = O ) C 2 = C C = C C = C 2 C 1 = O
+O = C 1 C = C C ( = O ) C = C 1 . C C ( = O ) O C ( C ) = O . O = S ( = O ) ( O ) O >> C C ( = O ) O C 1 = C C ( O C ( C ) = O ) = C ( O C ( C ) = O ) C = C 1
+N C 1 = C C = C ( Cl ) C = C 1 . C C O . S = C ( Cl ) Cl . O >> S = C = N C 1 = C C = C ( Cl ) C = C 1
+C C C [C@H] ( C ) / C ( C C ) = N \ N 1 C C C [C@] 1 ( C ) C C . Cl C Cl . N # N . O = [O+] [O-] >> C C C [C@H] ( C ) C ( = O ) C C
+O = C 1 C C C C 1 . C N ( C ) C = O . C C C C C . C [Si] ( C ) ( C ) Cl . C C N ( C C ) C C >> C [Si] ( C ) ( C ) O C 1 = C C C C 1
+C C 1 = C ( C ) C C = C C 1 . C C O C C . C 1 = C C = C C = C 1 . C C ( C ) ( C ) [O-] ~ [K+] . Br C ( Br ) Br >> C [C@@] 1 2 C C = C C [C@] 1 ( C ) C 2 ( Br ) Br
+O = C 1 O C ( = O ) C 2 = C C = C C = C 1 2 . C C O C C . O = S ( = O ) ( O ) O . O = C ( [O-] ) [O-] ~ [Na+] ~ [Na+] . O O >> O = C ( O ) C 1 = C C = C C = C 1 C ( = O ) O O
+C C C [CH2-] ~ [Mg+2] ~ [Cl-] . C 1 C C O C 1 . C # C >> C # [C-] ~ [Mg+2] ~ [Cl-]
+C C ( = O ) C ( C ) C ( C ) = O . C C ( = O ) / C ( C ) = N / O . C C ( = O ) O . [Zn] >> C C 1 = C ( C ) C ( C ) = C ( C ) N 1
+N C 1 = C C = C C = C 1 . O = C ( C ( Cl ) ( Cl ) Cl ) C ( Cl ) ( Cl ) Cl . C C C C C C >> O = C ( N C 1 = C C = C C = C 1 ) C ( Cl ) ( Cl ) Cl
+C C C C C C ( C ) = O . [Na] . C C O . O >> C C C C C C ( C ) O
+O = C C 1 = C N = C C = C 1 . C = C C # N . C C ( = O ) O . [C-] # N ~ [Na+] . C N ( C ) C = O >> N # C C C C ( = O ) C 1 = C C = C N = C 1
+C = C C C C C C C C C . Cl [Pd] Cl . Cl [Cu] . C N ( C ) C = O ~ O . O = O >> C C C C C C C C C ( C ) = O
+C C # N . N . Cl . C C O >> C C ( = N ) N ~ Cl

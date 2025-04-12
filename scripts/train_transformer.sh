@@ -1,9 +1,9 @@
-DATA_PATH='../dataset/Pistachio_example/transformer/preprocessed'
-MODEL_SAVE_PATH='../dataset/Pistachio_example/transformer/models/'
+DATA_PATH='' # Path to the preprocessed data
+MODEL_SAVE_PATH='' # Path to save the trained model
 mkdir -p $MODEL_SAVE_PATH
-LOG_PATH='../dataset/Pistachio_example/transformer/train_log.txt'
+LOG_PATH='' # Path to save the training log
 
-/home/yuxuan/anaconda3/envs/new/bin/onmt_train \
+onmt_train \
   -data $DATA_PATH  -save_model  $MODEL_SAVE_PATH  \
   -seed 42 -save_checkpoint_steps 10000 -keep_checkpoint 100 \
   -train_steps 1000000 -param_init 0  -param_init_glorot \

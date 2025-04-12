@@ -1,16 +1,16 @@
 #!/bin/bash
 
 # Set paths for data
-SRC_PATH='../dataset/Pistachio_example/transformer/src-test.txt'
-TGT_PATH='../dataset/Pistachio_example/transformer/tgt-test.txt'
-PRED_PATH='../dataset/Pistachio_example/transformer/pred.txt'
+SRC_PATH='' # Path to the source test data
+TGT_PATH='' # Path to the target test data
+PRED_PATH='' # Path to save the predictions
 
 # Set the GPU device to use
 export CUDA_VISIBLE_DEVICES=0
 
-MODEL_PATH='../dataset/Pistachio_example/transformer/models/your_model_name'
+MODEL_PATH='' # Path to the trained model
 
-/path/the/smiles2actions/enviroment/bin/onmt_translate \
+onmt_translate \
     -model $MODEL_PATH \
     -src $SRC_PATH \
     -tgt $TGT_PATH \

@@ -1,0 +1,7 @@
+transformers>=4.22.0
+lightning
+tensorboard
+textdistance
+nltk
+datasets
+sentencepiece
