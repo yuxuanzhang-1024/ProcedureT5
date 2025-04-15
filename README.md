@@ -1,5 +1,6 @@
 # ProcedureT5
 ![The workflow of ProcedureT5](./assets/main.svg)
+
 *Computer-aided synthesis planning (CASP) has shown strong potential to accelerate chemical 
 research. However, a key challenge remains: the lack of effective automated techniques to translate 
 computer-generated synthesis routes into executable experimental procedures, which still require 
@@ -29,12 +30,16 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-You can find the Orgsyn dataset and the augmented Orgsyn dataset [here](./dataset). For the Pistachio dataset, you need to request [Vaucher et al.](https://www.nature.com/articles/s41467-021-22951-1) to access it.
+You can find the Orgsyn dataset and the augmented Orgsyn dataset [here](./dataset). Access the Pistachio dataset requires the permission from [Vaucher et al.](https://www.nature.com/articles/s41467-021-22951-1).
 
 ## Model Train
-For training T5 series models, please configure shell scripts [here](./scripts/) and run them.
+For training and finetuning ProcedureT5, please configure shell scripts [here](./scripts/) and run them.
 
-## Perform Prediictions
-The four variants of our model are available via the HuggignFace Hub in the following links:
+## Perform Predictions
+Our two model variants are available on the Hugging Face Hub at the following links:
+
+[ProcedureT5-small](https://huggingface.co/Napister/ProcedureT5-small): Derived from MolT5-small, this model was trained using the augmented Pistachio dataset.
+
+[ProcedureT5-base](https://huggingface.co/Napister/ProcedureT5-base): The top-performing model in our study, built from MolT5-base and trained with the augmented Pistachio dataset.
 
 ## Citation
